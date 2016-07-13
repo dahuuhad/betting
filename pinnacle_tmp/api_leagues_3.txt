@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<rsp status="ok">
+  <sportId>3</sportId>
+  <leagues>
+    <league id="214" homeTeamType="Team2" feedContents="1" allowRoundRobins="1">MLB Alternate Runlines</league>
+    <league id="216" homeTeamType="Team2" feedContents="0" allowRoundRobins="0">All Star Friendlies</league>
+    <league id="217" homeTeamType="Team2" feedContents="0" allowRoundRobins="1">Asia Series</league>
+    <league id="218" homeTeamType="Team2" feedContents="0" allowRoundRobins="1">Asian Games - World</league>
+    <league id="220" homeTeamType="Team2" feedContents="0" allowRoundRobins="1">NCAA Baseball</league>
+    <league id="225" homeTeamType="Team2" feedContents="0" allowRoundRobins="1">European Championships</league>
+    <league id="231" homeTeamType="Team2" feedContents="0" allowRoundRobins="0">Italy - Serie A1</league>
+    <league id="232" homeTeamType="Team2" feedContents="0" allowRoundRobins="1">Japan - All Star</league>
+    <league id="187703" homeTeamType="Team2" feedContents="0" allowRoundRobins="0">Nippon Professional Baseball</league>
+    <league id="233" homeTeamType="Team2" feedContents="1" allowRoundRobins="1">Japan - Central League</league>
+    <league id="234" homeTeamType="Team2" feedContents="0" allowRoundRobins="1">Japan - Inter League</league>
+    <league id="235" homeTeamType="Team2" feedContents="0" allowRoundRobins="1">Japan Baseball LIVE</league>
+    <league id="236" homeTeamType="Team2" feedContents="1" allowRoundRobins="1">Japan - Pacific League</league>
+    <league id="237" homeTeamType="Team2" feedContents="0" allowRoundRobins="1">Nippon Series (Championship)</league>
+    <league id="238" homeTeamType="Team2" feedContents="0" allowRoundRobins="0">Konami Cup Asia Series</league>
+    <league id="6227" homeTeamType="Team2" feedContents="1" allowRoundRobins="1">Korea Professional Baseball</league>
+    <league id="241" homeTeamType="Team2" feedContents="0" allowRoundRobins="1">Little League World Series</league>
+    <league id="244" homeTeamType="Team2" feedContents="1" allowRoundRobins="0">Mexican League</league>
+    <league id="246" homeTeamType="Team2" feedContents="1" allowRoundRobins="1">MLB</league>
+    <league id="5425" homeTeamType="Team2" feedContents="0" allowRoundRobins="1">MLB - Pre Season</league>
+    <league id="251" homeTeamType="Team2" feedContents="0" allowRoundRobins="1">Baseball Games</league>
+    <league id="252" homeTeamType="Team2" feedContents="0" allowRoundRobins="1">Olympic Qualifier</league>
+    <league id="255" homeTeamType="Team2" feedContents="0" allowRoundRobins="1">Pan American Games</league>
+    <league id="256" homeTeamType="Team2" feedContents="0" allowRoundRobins="1">Campeonato Nacional de Beisbol Mayor</league>
+    <league id="257" homeTeamType="Team2" feedContents="0" allowRoundRobins="1">Serie Del Caribe</league>
+    <league id="11689" homeTeamType="Team2" feedContents="0" allowRoundRobins="0">testing 5</league>
+    <league id="264" homeTeamType="Team2" feedContents="0" allowRoundRobins="1">WNCAA Softball</league>
+    <league id="265" homeTeamType="Team2" feedContents="0" allowRoundRobins="0">World Cup Baseball</league>
+    <league id="266" homeTeamType="Team2" feedContents="0" allowRoundRobins="1">World Baseball Classic</league>
+  </leagues>
+</rsp>

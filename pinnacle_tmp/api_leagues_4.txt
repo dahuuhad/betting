@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+<rsp status="ok">
+  <sportId>4</sportId>
+  <leagues>
+    <league id="267" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Europe - ABA League Adriatic All Star</league>
+    <league id="268" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">ABA - Adriatic League</league>
+    <league id="5135" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">All African Games</league>
+    <league id="5131" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">All African Games - Women</league>
+    <league id="269" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">America - U18 Championship</league>
+    <league id="5682" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">America - CentroBasket Championship Women</league>
+    <league id="271" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International - Arab Cup</league>
+    <league id="273" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Argentina - Super 8</league>
+    <league id="274" homeTeamType="Team1" feedContents="1" allowRoundRobins="0">Argentina - Liga Nacional</league>
+    <league id="4616" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Asian Games</league>
+    <league id="4627" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Asian Games - Women</league>
+    <league id="276" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Austria - All Star</league>
+    <league id="4521" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia - NBL Top End Challenge Darwin</league>
+    <league id="280" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia - NBL</league>
+    <league id="282" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia - WNBL</league>
+    <league id="283" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Austria - Super Cup</league>
+    <league id="6739" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Austria - Cup</league>
+    <league id="285" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Austria - OBL</league>
+    <league id="287" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - Baltic BL</league>
+    <league id="4508" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Baltic - Basketball League Cup</league>
+    <league id="288" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Baltic - Challenge Cup</league>
+    <league id="4769" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Belgium - Cup</league>
+    <league id="291" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Brazil - Campeonato Nacional Women</league>
+    <league id="293" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Brazil - Novo Basquete Brasil</league>
+    <league id="6211" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Bulgaria - Cup</league>
+    <league id="297" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Bulgaria - Basketball League</league>
+    <league id="299" homeTeamType="Team2" feedContents="0" allowRoundRobins="0">Canadia - University</league>
+    <league id="300" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Central America and Caribbean Games</league>
+    <league id="301" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Central America and Caribbean Games - Women</league>
+    <league id="303" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">China - Basketball Association</league>
+    <league id="305" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Croatia - Cup</league>
+    <league id="306" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Croatia - A1 Liga</league>
+    <league id="307" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Croatia - A1 Liga Women</league>
+    <league id="308" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Cyprus - 1st Division</league>
+    <league id="309" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Cyprus - Cup</league>
+    <league id="311" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Czech Republic - Extraliga Women</league>
+    <league id="312" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Czech Republic - League Cup</league>
+    <league id="313" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Czech Republic - Mattoni NBL</league>
+    <league id="316" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Denmark - Division 1</league>
+    <league id="317" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Denmark - Basketligaen</league>
+    <league id="318" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Denmark - Cup</league>
+    <league id="319" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Denmark - Dameligaen Women</league>
+    <league id="321" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">England - BBL Championship</league>
+    <league id="6891" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">England - BBL Cup</league>
+    <league id="322" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">England - BBL Trophy</league>
+    <league id="325" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Estonia - Meistriliiga</league>
+    <league id="7350" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Estonia - Meistriliiga Cup Men</league>
+    <league id="326" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European Championship Division 2</league>
+    <league id="329" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Europe - Cup Allstar Game</league>
+    <league id="4489" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - Club Friendlies</league>
+    <league id="4518" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - Cup Qualification</league>
+    <league id="335" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - CEBL Final Four</league>
+    <league id="339" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - European U16 Championships Div. A Women</league>
+    <league id="340" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - European U16 Championships Div. B Women</league>
+    <league id="344" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - European U18 Championship Division A</league>
+    <league id="345" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - European U18 Championship Division B</league>
+    <league id="350" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Europe - International U20</league>
+    <league id="355" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - European U16 Championships Division A</league>
+    <league id="356" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - European U16 Championships Division B</league>
+    <league id="357" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - European U20 Championship Division A</league>
+    <league id="358" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe -European U20 Championship Division A Women</league>
+    <league id="359" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European - U20 Championship Division B Men</league>
+    <league id="360" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe -European U20 Championship Division B Women</league>
+    <league id="367" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - Euro Challenge</league>
+    <league id="370" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Europe - Championship Qualification</league>
+    <league id="372" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Europe - European Championship Qualification Women</league>
+    <league id="4564" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - European Super Cup Women</league>
+    <league id="374" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Europe - VTB United League</league>
+    <league id="4914" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - EuroBasket Division B Women</league>
+    <league id="375" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Europe - Eurobasket</league>
+    <league id="5836" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Europe - Eurobasket Qualification</league>
+    <league id="376" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">Europe - Eurobasket Women</league>
+    <league id="5141" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - Eurobasket Low Juice</league>
+    <league id="6099" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Europe - Eurocup Interval Betting</league>
+    <league id="4520" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - EuroChallenge Qualification</league>
+    <league id="5702" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Europe - European Championship Small Countries</league>
+    <league id="6337" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - European Championship Qualification Women</league>
+    <league id="377" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Europe - Eurocup</league>
+    <league id="379" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - Eurocup Women</league>
+    <league id="381" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - Euroleague American Tour</league>
+    <league id="4504" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Europe - Euroleague Qualification Women</league>
+    <league id="382" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Europe - Euroleague</league>
+    <league id="4503" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Europe - Euroleague Qualifications</league>
+    <league id="383" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - Euroleague Women</league>
+    <league id="385" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe -European U18 Championship Division A Women</league>
+    <league id="387" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe -European U18 Championship Division B Women</league>
+    <league id="388" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">FIBA - Africa Championship</league>
+    <league id="389" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">FIBA - Africa Championship Women</league>
+    <league id="390" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">FIBA - Americas League</league>
+    <league id="391" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">FIBA - American Championship Women</league>
+    <league id="392" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIBA - Americas Championships</league>
+    <league id="393" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIBA - Asia Championship</league>
+    <league id="394" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">FIBA - Cup Women</league>
+    <league id="397" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIBA - World Championship</league>
+    <league id="4492" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIBA - World Championship Women</league>
+    <league id="9585" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIBA - World Cup</league>
+    <league id="398" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">FIBA - Centrobasket Championship Women</league>
+    <league id="399" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">FIBA - Centrobasket Championship</league>
+    <league id="400" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">FIBA - Marchand Continental Championship Cup</league>
+    <league id="5912" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">FIBA - Asia Cup</league>
+    <league id="4402" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">FIBA - Asia Stankovic Cup</league>
+    <league id="404" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Finland - SM Sarja Women</league>
+    <league id="407" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Finland - Cup Women</league>
+    <league id="408" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Finland - Korisliiga</league>
+    <league id="4646" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">France - All Star Game</league>
+    <league id="412" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">France - Ligue Féminine de Basketball</league>
+    <league id="413" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">France - Match des Champions</league>
+    <league id="414" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">France - Championnat Pro A</league>
+    <league id="415" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">France - Championnat Pro B</league>
+    <league id="416" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">France - Leaders Cup</league>
+    <league id="417" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">French - Cup</league>
+    <league id="5602" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">France - Cup Women</league>
+    <league id="420" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Germany - BBL Pokal</league>
+    <league id="423" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Germany - Bundesliga</league>
+    <league id="424" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Germany - Championship</league>
+    <league id="426" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Germany - All Star</league>
+    <league id="427" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Germany -  BBL Champions Cup</league>
+    <league id="437" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Greece - A1</league>
+    <league id="438" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Greece - A1 Women</league>
+    <league id="441" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Greek - Cup</league>
+    <league id="5189" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Holland - FEB Eredivisie Cup</league>
+    <league id="445" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hungary - Division A</league>
+    <league id="451" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International - Friendlies</league>
+    <league id="452" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International - Tournaments Super Cup</league>
+    <league id="453" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International - Tournaments Strasbourg</league>
+    <league id="454" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International - Tournament Trentino Cup</league>
+    <league id="455" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International - William Jones Cup</league>
+    <league id="456" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International - William Jones Cup Women</league>
+    <league id="457" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International - Tournaments Torneo Super</league>
+    <league id="458" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International - Tournaments CBC Championship</league>
+    <league id="459" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International - Tournaments Trofeo Mandela Forum</league>
+    <league id="460" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Israel - Cup</league>
+    <league id="461" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Israel - Premier League Women</league>
+    <league id="4530" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Israel - Winner Cup</league>
+    <league id="462" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Israel - Premier League</league>
+    <league id="463" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Italy - Tim Cup</league>
+    <league id="468" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Italy - Coppa Italia</league>
+    <league id="469" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Italy - Coppa Italia Women</league>
+    <league id="470" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Italy - Lega A1 Women</league>
+    <league id="472" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">Italy - Lega A</league>
+    <league id="474" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Italy - Lega Nazionale Pallacanestro Gold</league>
+    <league id="475" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Italy - Super Coppa</league>
+    <league id="477" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Japan - BJ League</league>
+    <league id="478" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Japan - WJB League Women</league>
+    <league id="481" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Korea - WKBL</league>
+    <league id="482" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Korea - Korea Basketball League</league>
+    <league id="483" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Latvia - LBL Division 1</league>
+    <league id="484" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Lithuania - Cup</league>
+    <league id="485" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Lithuania - Lietuvos Krepsinio Lyga</league>
+    <league id="5254" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Live ABA - League Adriatic</league>
+    <league id="187605" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Live Europe - Eurobasket Women Intermission</league>
+    <league id="4829" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Live Europe - Euro Cup</league>
+    <league id="6000" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Live Europe - Europe VTB United League</league>
+    <league id="6541" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Live FIBA - Africa Championship</league>
+    <league id="6492" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Live FIBA - Asia Championship Intermission</league>
+    <league id="5179" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Live France - Championnat Pro A</league>
+    <league id="9821" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Live FIBA World - Championship Women Intermission</league>
+    <league id="4953" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Live Germany - Bundesliga</league>
+    <league id="4733" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Live Greece - A1</league>
+    <league id="4938" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Live Italy - Lega A</league>
+    <league id="5237" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Live Korea - KBL</league>
+    <league id="4726" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Live Spain - ACB</league>
+    <league id="4952" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Live Turkey - TBL</league>
+    <league id="6523" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Live Eurobasket - Intermission</league>
+    <league id="6540" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Live Eurobasket - Qualification Intermission</league>
+    <league id="6542" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Live FIBA - Africa Championship Intermission</league>
+    <league id="486" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Mexico - Liga Nacional de Baloncesto Profesional</league>
+    <league id="487" homeTeamType="Team2" feedContents="0" allowRoundRobins="1">NBA</league>
+    <league id="488" homeTeamType="Team2" feedContents="0" allowRoundRobins="0">Europe - NBA Tour</league>
+    <league id="5270" homeTeamType="Team2" feedContents="0" allowRoundRobins="1">NBA Preseason</league>
+    <league id="493" homeTeamType="Team2" feedContents="0" allowRoundRobins="1">NCAA</league>
+    <league id="497" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">NCAA (College) Overtime</league>
+    <league id="499" homeTeamType="Team2" feedContents="0" allowRoundRobins="1">NIT</league>
+    <league id="501" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Norway - BLNO</league>
+    <league id="506" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Olympic - Basketball Matches</league>
+    <league id="5700" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic - Qualifying Tournament Men</league>
+    <league id="5699" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic - Qualifying Tournament Women</league>
+    <league id="507" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Olympic - Basketball Matches Women</league>
+    <league id="509" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Pan American Games Women</league>
+    <league id="5209" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Pan American Games</league>
+    <league id="5366" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Philippines - PBA Commissioners Cup</league>
+    <league id="5608" homeTeamType="Team1" feedContents="1" allowRoundRobins="0">Philippines - PBA Governors Cup</league>
+    <league id="7066" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Philippines - PBA Philippine Cup</league>
+    <league id="5130" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Peru - Superior League</league>
+    <league id="510" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Philippines - Cup</league>
+    <league id="511" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Poland - Puchar Polski</league>
+    <league id="4531" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Poland - Super Cup</league>
+    <league id="512" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Poland - Tauron Basket Liga</league>
+    <league id="5433" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Puerto Rico - Superior Nacional</league>
+    <league id="519" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Romania - All Star Game</league>
+    <league id="523" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Romania - Division A Women</league>
+    <league id="5392" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Romania - Cup</league>
+    <league id="527" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Romania - Division A</league>
+    <league id="531" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Russia - Division A Women</league>
+    <league id="533" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Russia - Cup</league>
+    <league id="4598" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Russia - Professional Basketball League</league>
+    <league id="4599" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Russia - Professional Basketball League Women</league>
+    <league id="534" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Russia - Superleague Women</league>
+    <league id="535" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Russia - Championship</league>
+    <league id="536" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Serbia - Cup</league>
+    <league id="537" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Serbia - Nasa Liga</league>
+    <league id="543" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slovakia - League Cup</league>
+    <league id="544" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slovakia - Extraliga</league>
+    <league id="4507" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slovenia - Super Cup</league>
+    <league id="547" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slovenia - Super Cup</league>
+    <league id="548" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slovenia - 1.A SKL</league>
+    <league id="7426" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slovenia Pokal Spar - Men</league>
+    <league id="550" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">South American - League</league>
+    <league id="551" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">South American -Championship</league>
+    <league id="4404" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">South American - Championship Women</league>
+    <league id="552" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Spain - Copa Del Rey</league>
+    <league id="553" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Spain - Copa Príncipe de Asturias</league>
+    <league id="554" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Spain - Copa Addeco LEB Bronze</league>
+    <league id="555" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Spain -  Copa Addeco LEB Silver</league>
+    <league id="556" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Spain - LEB Gold</league>
+    <league id="559" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">Spain - ACB</league>
+    <league id="561" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Spain - Super Copa</league>
+    <league id="563" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">FIBA - Stankovic Continental Champions Cup</league>
+    <league id="565" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Sweden - Basketligan</league>
+    <league id="566" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Switzerland - Coupe de la ligue</league>
+    <league id="567" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Switzerland -  LNA</league>
+    <league id="568" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - Torneo Orense</league>
+    <league id="5177" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Turkey - Presidents Cup</league>
+    <league id="569" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Turkey - Cup</league>
+    <league id="570" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Turkey - TBBL Women</league>
+    <league id="571" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Turkey - TBL</league>
+    <league id="574" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Ukraine - Cup</league>
+    <league id="575" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Ukraine - SuperLiga</league>
+    <league id="577" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">ULEB - Summer League</league>
+    <league id="5251" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Uruguay - Liga</league>
+    <league id="9270" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European Championship Small Countries Women</league>
+    <league id="578" homeTeamType="Team2" feedContents="1" allowRoundRobins="1">WNBA</league>
+    <league id="579" homeTeamType="Team2" feedContents="0" allowRoundRobins="1">WNBA - All Star</league>
+    <league id="582" homeTeamType="Team2" feedContents="0" allowRoundRobins="0">WNBA - Preseason</league>
+    <league id="583" homeTeamType="Team2" feedContents="0" allowRoundRobins="1">WNCAA</league>
+    <league id="586" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - U19 World Championship Women</league>
+    <league id="588" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">World - Diamond Ball Cup Women</league>
+    <league id="589" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">World - Diamond Ball Cup</league>
+    <league id="590" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - International Friendlies Women</league>
+    <league id="6673" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - Intercontinental Cup</league>
+    <league id="591" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - Mediterranean Games</league>
+    <league id="592" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - Mediterranean Games Women</league>
+    <league id="593" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - Al Ramsay Shield Series</league>
+    <league id="594" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International -Tournaments Trofeo Gianatti</league>
+    <league id="595" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">World - U19 Championship Women</league>
+    <league id="596" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">World - U21 Championship Women</league>
+    <league id="597" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - International Four NationsTournament</league>
+    <league id="598" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - U19 International Friendlies</league>
+    <league id="599" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - International Four NationsTournament Women</league>
+    <league id="600" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - Albert Schweitzer Tournament Men</league>
+    <league id="5680" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - International Friendlies</league>
+    <league id="602" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - Universiade</league>
+    <league id="603" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - Universiade Women</league>
+    <league id="604" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - Club Friendlies</league>
+  </leagues>
+</rsp>

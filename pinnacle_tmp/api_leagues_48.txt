@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<rsp status="ok">
+  <sportId>48</sportId>
+  <leagues>
+    <league id="7297" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Aerials - Men</league>
+    <league id="7298" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Halfpipe - Men</league>
+    <league id="7303" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Halfpipe - Women</league>
+    <league id="7299" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Moguls - Men</league>
+    <league id="7301" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Ski Cross - Men</league>
+    <league id="7306" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Ski Cross - Women</league>
+    <league id="7300" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Slopestyle - Men</league>
+    <league id="7302" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Aerials - Women</league>
+    <league id="7304" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Moguls - Women</league>
+    <league id="7305" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Slopestyle - Women</league>
+  </leagues>
+</rsp>

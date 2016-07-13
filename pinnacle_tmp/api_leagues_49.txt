@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<rsp status="ok">
+  <sportId>49</sportId>
+  <leagues>
+    <league id="7308" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Doubles - Men</league>
+    <league id="7307" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Singles - Men</league>
+    <league id="7309" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Singles - Women</league>
+    <league id="7310" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Team Relay - Mixed</league>
+  </leagues>
+</rsp>

@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<rsp status="ok">
+  <sportId>40</sportId>
+  <leagues>
+    <league id="10775" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Garmisch Partenkirchen - 137 - Men</league>
+    <league id="10926" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Alpine Combined Bansko - 5073 - Women</league>
+    <league id="10790" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Alpine Combined Vail/Beaver Creek - 5212 - Women</league>
+    <league id="7487" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Combined Event Wengen - 147 - Men</league>
+    <league id="10716" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Vail/Beaver Creek - 0210 - Men</league>
+    <league id="10714" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Vail/Beaver Creek - 0214 - Men</league>
+    <league id="11678" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Meribel - 128 - Men</league>
+    <league id="7154" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Lake Louise - 135 - Men</league>
+    <league id="10910" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Garmisch Partenkirchen - 137 - Men</league>
+    <league id="10388" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">INACTIVE</league>
+    <league id="10394" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Val Gardena/Groeden - 145 - Men</league>
+    <league id="7443" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Wengen - 148 - Men</league>
+    <league id="8007" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Lenzerheide - 154 - Men</league>
+    <league id="10971" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Kvitfjell - 168 - Men</league>
+    <league id="7247" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Val Gardena/Groeden - 175 - Men</league>
+    <league id="10457" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Santa Caterina Valfurva - 1814 - Men</league>
+    <league id="10466" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Santa Caterina Valfurva - 1816 - Men</league>
+    <league id="7353" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Bormio - 183 - Men</league>
+    <league id="10560" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Wengen - 193 - Men</league>
+    <league id="10546" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Wengen - 194 - Men</league>
+    <league id="10360" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Beaver Creek - 207 - Men</league>
+    <league id="7574" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Kvitfjell -212 - Men (Replaces St.Moritz)</league>
+    <league id="7940" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Kvitfjell 331 - Men</league>
+    <league id="10512" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Bad Kleinkirchheim - 5057 - Women</league>
+    <league id="10503" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Cortina d''Ampezzo - 5058 - Women</league>
+    <league id="7430" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Zauchensee - 5063 - Women</league>
+    <league id="10382" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Lake Louise - 5078 - Women</league>
+    <league id="10383" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Lake Louise - 5079 - Women</league>
+    <league id="7163" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Beaver Creek 5084 - Women</league>
+    <league id="10442" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Val d Isere - 5123 - Women</league>
+    <league id="16343" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Meribel - 5127 - Women</league>
+    <league id="11088" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Garmisch Partenkirchen - 5137 - Women</league>
+    <league id="7199" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Lake Louise - 5142 - Women Event 1</league>
+    <league id="7205" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Lake Louise - 5143 - Women Event 2</league>
+    <league id="10575" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Cortina d''Ampezzo - 5145 - Women</league>
+    <league id="7885" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Crans Montana - 5158 - Women</league>
+    <league id="8006" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Lenzerheide - 5163 - Women</league>
+    <league id="7346" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Val d Isere - 5170 - Women</league>
+    <league id="7479" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Cortina D Ampezzo - 5180 - Women</league>
+    <league id="10592" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill St. Moritz - 5198 - Women</league>
+    <league id="10719" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Vail/Beaver Creek - 5210 - Women</league>
+    <league id="7551" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Cortina D Ampezzo - 5211 - Women Event 1</league>
+    <league id="10839" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Saalbach - 54 - Men</league>
+    <league id="10586" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Kitzbuehel - 69 - Men</league>
+    <league id="7525" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Kitzbuehel - 70 - Men</league>
+    <league id="10339" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Lake Louise - 76 - Men</league>
+    <league id="7178" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Downhill Beaver Creek - 78 - Men</league>
+    <league id="9933" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Cup Downhill - Men</league>
+    <league id="11710" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Kranjska Gora - 0180 - Men</league>
+    <league id="10718" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Vail/Beaver Creek - 0217 - Men</league>
+    <league id="10724" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Vail/Beaver Creek - 0218 - Men</league>
+    <league id="10411" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Are (SWE) - 117 - Men</league>
+    <league id="18035" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Meribel - 130 - Men</league>
+    <league id="10925" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Garmisch Partenkirchen - 138 - Men</league>
+    <league id="7431" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Adelboden - 141 - Men</league>
+    <league id="10443" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Alta Badia - 148 - Men</league>
+    <league id="8028" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Lenzerheide -156 - Men</league>
+    <league id="7229" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Val d''Isere - 158 - Men</league>
+    <league id="7251" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Alta Badia - 180 - Men</league>
+    <league id="10505" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Adelboden - 187 - Men</league>
+    <league id="10378" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Beaver Creek - 209 - Men</league>
+    <league id="7590" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom St. Moritz - 213 - Men</league>
+    <league id="7992" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Kranjska Gora - 279 - Men</league>
+    <league id="10149" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Soelden - 5052 - Women</league>
+    <league id="10461" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Kuehtai - 5053 - Women</league>
+    <league id="6622" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Soelden - 5058 - Women</league>
+    <league id="7355" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Lienz - 5059 - Women</league>
+    <league id="10533" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Flachau - 5052 - Women</league>
+    <league id="7164" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Beaver Creek 5086 - Women</league>
+    <league id="10410" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Are (SWE) - 5116 - Women</league>
+    <league id="18052" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Meribel - 5130 - Women</league>
+    <league id="7232" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom St. Moritz - 5146 - Women</league>
+    <league id="8029" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Lenzerheide - 5166 - Women</league>
+    <league id="7347" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Val d Isere - 5171 - Women</league>
+    <league id="10863" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Maribor - 5185 - Women</league>
+    <league id="11707" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Are - 5202 - Women</league>
+    <league id="10344" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Aspen - 5204 - Women</league>
+    <league id="10720" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Vail/Beaver Creek - 5214 - Women</league>
+    <league id="7587" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Kranjska Gora - 5261 - Women</league>
+    <league id="7952" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Are - 5261 - Women</league>
+    <league id="7975" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Are - 5339 Women</league>
+    <league id="6781" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Soelden - 56 - Men</league>
+    <league id="7198" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Giant Slalom Beaver Creek - 79 - Men</league>
+    <league id="7256" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Combined - Men</league>
+    <league id="7261" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Combined - Women</league>
+    <league id="7252" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Downhill - Men</league>
+    <league id="7257" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Downhill - Women</league>
+    <league id="7254" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Giant Slalom - Men</league>
+    <league id="7259" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Giant Slalom - Women</league>
+    <league id="7255" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Slalom - Men</league>
+    <league id="7260" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Slalom - Women</league>
+    <league id="7253" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Super G - Men</league>
+    <league id="7258" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Super-G - Women</league>
+    <league id="7573" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super Combined Kitzbuehel - 69 - Men</league>
+    <league id="10715" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super G Vail/Beaver Creek - 0211 - Men</league>
+    <league id="11683" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super G Meribel - 129 - Men</league>
+    <league id="7174" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super G  Lake Louise - 136 - Men</league>
+    <league id="10389" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super G Val Gardena/Groeden - 144 - Men</league>
+    <league id="8022" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super G Lenzerheide - 155 - Men</league>
+    <league id="10918" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super G Kvitfjell - 169 - Men</league>
+    <league id="7248" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super G Val Gardena/Groeden - 174 - Men</league>
+    <league id="10379" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super G Beaver Creek - 208 - Men</league>
+    <league id="7873" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super G Kvitfjell -332 - Men</league>
+    <league id="10504" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super G Bansko - 5059 - Women</league>
+    <league id="10943" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super G Bansko - 5072 - Women</league>
+    <league id="10966" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super G Bansko - 5074 - Women</league>
+    <league id="7169" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super G Beaver Creek - 5085 - Women</league>
+    <league id="10452" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super G Val d Isere - 5124 - Women</league>
+    <league id="18001" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super G Meribel - 5128 - Women</league>
+    <league id="11089" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super G Garmisch Partenkirchen - 5138 - Women</league>
+    <league id="7211" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super G Lake Louise - 5144 - Women</league>
+    <league id="7231" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super G St. Moritz - 5145 - Women</league>
+    <league id="10583" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super G Cortina D Ampezzo - 5146 - Women</league>
+    <league id="8025" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super G Lenzerheide - 5164 - Women</league>
+    <league id="7480" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super G Cortina D Ampezzo - 5181 - Women</league>
+    <league id="10611" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super G St. Moritz - 5199 - Women</league>
+    <league id="10705" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super G Vail/Beaver Creek - 5207 - Women</league>
+    <league id="7550" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super G Cortina D Ampezzo - 5212 - Women Event 1</league>
+    <league id="10840" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super G Saalbach - 55 - Men</league>
+    <league id="7553" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super G Kitzbuehel - 68 - Men</league>
+    <league id="7200" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super G  Lake Louise - 77 - Men</league>
+    <league id="11708" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Kranjska Gora - 0181 - Men</league>
+    <league id="10717" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Vail/Beaver Creek - 0219 - Men</league>
+    <league id="10725" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Vail/Beaver Creek - 0220 - Men</league>
+    <league id="10475" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Zagreb - 103 - Men</league>
+    <league id="10258" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Levi - 112 - Men</league>
+    <league id="10412" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Are (SWE) - 118 - Men</league>
+    <league id="18043" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Meribel - 131 - Men</league>
+    <league id="7433" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Adelboden - 142 - Men</league>
+    <league id="7482" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Madonna di Campiglio - 149 - Men</league>
+    <league id="8030" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Lenzerheide - 157 - Men</league>
+    <league id="7230" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Val d Isere - 159 - Men</league>
+    <league id="10862" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Maribor - 179 - Women</league>
+    <league id="10506" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Adelboden - 188 - Men</league>
+    <league id="10557" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Wengen - 195 - Men</league>
+    <league id="7411" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Bormio 236 - Men</league>
+    <league id="7993" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Kranjska Gora - 280 - Men</league>
+    <league id="10462" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Kuehtai - 5054 - Women</league>
+    <league id="7356" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Flachau - 5060 - Women</league>
+    <league id="7476" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Flachau - 5067 - Women</league>
+    <league id="10474" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Zagreb - 5106 - Women</league>
+    <league id="10257" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Levi - 5115 - Women</league>
+    <league id="10409" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Are (SWE) - 5117 Women</league>
+    <league id="18024" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Meribel - 5129 - Women</league>
+    <league id="8031" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Lenzerheide - 5165 - Women</league>
+    <league id="7246" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Courchevel - 5167 - Women</league>
+    <league id="11706" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Are (SWE) - 5203 Women</league>
+    <league id="10348" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Aspen - 5205 - Women</league>
+    <league id="10721" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Vail/Beaver Creek - 5212 - Women</league>
+    <league id="10723" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Vail/Beaver Creek - 5215 - Women</league>
+    <league id="7410" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Bormio 5233 - Women</league>
+    <league id="7588" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Kranjska Gora - 5262 - Women</league>
+    <league id="7962" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Are - 5340 - Women</league>
+    <league id="10591" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Kitzbuehel - 68 - Men</league>
+    <league id="7552" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Kitzbuehel - 71- men</league>
+    <league id="7586" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Schladming - 72 - Men</league>
+    <league id="6983" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Levi - 5076 - Women</league>
+    <league id="6984" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slalom Levi - 73 - Men</league>
+    <league id="10805" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Team Event Vail/Beaver Creek - 0337 -- Mixed</league>
+    <league id="30592" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Meribel Team Mixed - 0338</league>
+    <league id="9940" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Cup Downhill – Women</league>
+    <league id="9936" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Cup Giant Slalom - Men</league>
+    <league id="9939" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Cup Giant Slalom – Women</league>
+    <league id="9934" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Cup Overall Matchups - Men</league>
+    <league id="9941" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Cup Overall Matchups - Women</league>
+    <league id="9937" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Cup Super G - Women</league>
+    <league id="9935" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Cup Slalom - Men</league>
+    <league id="9938" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Cup Slalom - Women</league>
+  </leagues>
+</rsp>

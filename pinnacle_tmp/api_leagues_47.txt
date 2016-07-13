@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<rsp status="ok">
+  <sportId>47</sportId>
+  <leagues>
+    <league id="7294" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Pair Skating</league>
+    <league id="7292" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Singles - Men</league>
+    <league id="7293" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Singles - Women</league>
+    <league id="7296" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Team Trophy</league>
+    <league id="7295" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Ice Dance</league>
+  </leagues>
+</rsp>

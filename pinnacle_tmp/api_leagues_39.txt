@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<rsp status="ok">
+  <sportId>39</sportId>
+  <leagues>
+    <league id="5448" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">Aussie Rules Football (AFL)</league>
+    <league id="10956" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">AFL - NAB Challenge</league>
+  </leagues>
+</rsp>

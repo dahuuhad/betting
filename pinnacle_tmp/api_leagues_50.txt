@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<rsp status="ok">
+  <sportId>50</sportId>
+  <leagues>
+    <league id="7313" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Team Large Hill/4x5km - Men</league>
+    <league id="7311" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Individual Large Hill/10km - Men</league>
+    <league id="7312" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic individual Normal Hill/10km - Men</league>
+  </leagues>
+</rsp>

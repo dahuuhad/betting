@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rsp status="ok">
+  <sportId>9</sportId>
+  <leagues>
+    <league id="6090" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Canada Cup of Curling - Men</league>
+    <league id="6089" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Canada Cup of Curling - Women</league>
+    <league id="4633" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European Championship - Men</league>
+    <league id="5262" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European Championships - Women</league>
+    <league id="726" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European Championships - Women</league>
+    <league id="6840" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Masters Grand Slam - Men</league>
+    <league id="6841" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Masters Grand Slam - Women</league>
+    <league id="727" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic - Men</league>
+    <league id="7226" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Qualification - Men</league>
+    <league id="7227" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Qualification - Women</league>
+    <league id="728" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic - Women</league>
+    <league id="7165" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Canada - Roar of the Rings Men</league>
+    <league id="7166" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Canada - Roar of the Rings Women</league>
+    <league id="729" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Canada - The Brier</league>
+    <league id="4748" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Tournament of Hearts - Women</league>
+    <league id="730" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Tournament of Hearts - Men</league>
+    <league id="4800" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Championship - Men</league>
+    <league id="731" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Championships - Women</league>
+    <league id="732" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Championships - Men</league>
+  </leagues>
+</rsp>

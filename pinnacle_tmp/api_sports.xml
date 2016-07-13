@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<rsp status="ok">
+  <sports>
+    <sport id="1" feedContents="0">Badminton</sport>
+    <sport id="2" feedContents="0">Bandy</sport>
+    <sport id="3" feedContents="1">Baseball</sport>
+    <sport id="4" feedContents="1">Basketball</sport>
+    <sport id="6" feedContents="1">Boxing</sport>
+    <sport id="8" feedContents="1">Cricket</sport>
+    <sport id="9" feedContents="0">Curling</sport>
+    <sport id="10" feedContents="0">Darts</sport>
+    <sport id="11" feedContents="0">Darts (Legs)</sport>
+    <sport id="12" feedContents="1">E Sports</sport>
+    <sport id="14" feedContents="0">Floorball</sport>
+    <sport id="15" feedContents="1">Football</sport>
+    <sport id="16" feedContents="0">Futsal</sport>
+    <sport id="17" feedContents="1">Golf</sport>
+    <sport id="18" feedContents="0">Handball</sport>
+    <sport id="19" feedContents="0">Hockey</sport>
+    <sport id="20" feedContents="0">Horse Racing</sport>
+    <sport id="22" feedContents="1">Mixed Martial Arts</sport>
+    <sport id="23" feedContents="0">Other Sports</sport>
+    <sport id="24" feedContents="0">Politics</sport>
+    <sport id="26" feedContents="1">Rugby League</sport>
+    <sport id="27" feedContents="0">Rugby Union</sport>
+    <sport id="28" feedContents="0">Snooker</sport>
+    <sport id="29" feedContents="1">Soccer</sport>
+    <sport id="30" feedContents="0">Softball</sport>
+    <sport id="31" feedContents="0">Squash</sport>
+    <sport id="32" feedContents="1">Table Tennis</sport>
+    <sport id="33" feedContents="1">Tennis</sport>
+    <sport id="34" feedContents="1">Volleyball</sport>
+    <sport id="35" feedContents="0">Volleyball (Points)</sport>
+    <sport id="36" feedContents="0">Water Polo</sport>
+    <sport id="39" feedContents="1">Aussie Rules</sport>
+    <sport id="40" feedContents="0">Alpine Skiing</sport>
+    <sport id="41" feedContents="0">Biathlon</sport>
+    <sport id="42" feedContents="0">Ski Jumping</sport>
+    <sport id="43" feedContents="0">Cross Country</sport>
+    <sport id="44" feedContents="0">Formula 1</sport>
+    <sport id="45" feedContents="0">Cycling</sport>
+    <sport id="46" feedContents="0">Bobsleigh</sport>
+    <sport id="47" feedContents="0">Figure Skating</sport>
+    <sport id="48" feedContents="0">Freestyle Skiing</sport>
+    <sport id="49" feedContents="0">Luge</sport>
+    <sport id="50" feedContents="0">Nordic Combined</sport>
+    <sport id="51" feedContents="0">Short Track</sport>
+    <sport id="52" feedContents="0">Skeleton</sport>
+    <sport id="53" feedContents="0">Snow Boarding</sport>
+    <sport id="54" feedContents="0">Speed Skating</sport>
+  </sports>
+</rsp>

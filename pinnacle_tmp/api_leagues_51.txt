@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<rsp status="ok">
+  <sportId>51</sportId>
+  <leagues>
+    <league id="7315" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic 1000m - Men</league>
+    <league id="7319" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic 1000m - Women</league>
+    <league id="7314" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic 500m - Men</league>
+    <league id="7317" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic 5000m Relay - Men</league>
+    <league id="7316" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic 1500m - Men</league>
+    <league id="7320" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic 1500m - Women</league>
+    <league id="7321" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic 3000m Relay - Women</league>
+    <league id="7318" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic 500m - Women</league>
+  </leagues>
+</rsp>

@@ -1,0 +1,711 @@
+<?xml version="1.0"?>
+<rsp status="ok">
+  <sportId>29</sportId>
+  <leagues>
+    <league id="1700" homeTeamType="Team1" feedContents="0" allowRoundRobins="1"> Alanya Cup</league>
+    <league id="10516" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">AFC - Asian Cup Corners</league>
+    <league id="8562" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">AFC - Asian Cup Women</league>
+    <league id="8657" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">AFC - Challenge Cup</league>
+    <league id="1708" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">AFC - Champions League</league>
+    <league id="9596" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">AFC - Champions League Corners</league>
+    <league id="7795" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">AFC - Champions League Qualifiers</league>
+    <league id="1709" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">AFC - Cup</league>
+    <league id="10085" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">AFC - U19 Championship</league>
+    <league id="35179" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">AFC - U23 Championship</league>
+    <league id="35180" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">AFC - U23 Championship Qualifiers</league>
+    <league id="1713" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">CAF - Africa Cup of Nations Qualifiers</league>
+    <league id="10576" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">CAF - Africa Cup of Nations Corners</league>
+    <league id="1715" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">CAF - Champions League</league>
+    <league id="1717" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">CAF - African Nations Championship</league>
+    <league id="187665" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">CAF - African Nations Championship Qualifiers</league>
+    <league id="1718" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">CAF - Africa Cup of Nations</league>
+    <league id="1722" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Albania - Superliga</league>
+    <league id="7953" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International - Algarve Cup Women</league>
+    <league id="1725" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Algeria - Cup</league>
+    <league id="8667" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Algeria - Professional Ligue 1</league>
+    <league id="10747" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Algeria - Youth U21 League</league>
+    <league id="6269" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Sweden - Allsvenskan Corners</league>
+    <league id="1728" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">Sweden - Allsvenskan</league>
+    <league id="6820" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Argentina - Primera B Nacional Corners</league>
+    <league id="6327" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Argentina - Primera Division Corners</league>
+    <league id="1739" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">Argentina - Primera B Nacional</league>
+    <league id="1740" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">Argentina - Primera Division</league>
+    <league id="1741" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Argentina - Cup</league>
+    <league id="1742" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Armenia - Premier League</league>
+    <league id="1744" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">ASEAN Football Championship</league>
+    <league id="149046" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">AFF - Womens Championship</league>
+    <league id="1746" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Asian Games - Men</league>
+    <league id="4593" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Asian Games - Women</league>
+    <league id="1748" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Audi - Cup (in Munich)</league>
+    <league id="6478" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Audi - Cup (in Munich) Corners</league>
+    <league id="125465" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia - FFA Cup Qualifiers Corners</league>
+    <league id="10914" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia - Brisbane Capital League 1</league>
+    <league id="11663" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia - Brisbane Premier League Corners</league>
+    <league id="8709" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Australia - Brisbane Cup</league>
+    <league id="10631" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia - Brisbane Silver Boot</league>
+    <league id="1749" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Australia - Brisbane Premier League</league>
+    <league id="8826" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia Dockerty Cup</league>
+    <league id="9394" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia - FFA Cup</league>
+    <league id="10984" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia - FFA Cup Qualifiers</league>
+    <league id="1751" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Australia - Foxtel Cup</league>
+    <league id="120869" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia - Northern Football</league>
+    <league id="8592" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia NPL - Capital Territory</league>
+    <league id="8594" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia NPL - Northern NSW</league>
+    <league id="8588" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia NPL - New South Wales</league>
+    <league id="8590" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia NPL - T-League</league>
+    <league id="66352" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia NPL - Western Australia Corners</league>
+    <league id="8586" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia NPL - Western Australia</league>
+    <league id="9913" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia - NPL Finals</league>
+    <league id="8653" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia - NSW Cup</league>
+    <league id="10136" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia - National Youth League</league>
+    <league id="1752" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Austria - ÖFB Cup</league>
+    <league id="6775" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Austria - Erste Liga Corners</league>
+    <league id="1753" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Australia NPL - South Australia</league>
+    <league id="163720" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia - Tasmania</league>
+    <league id="35177" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia - Victoria Women Premier League</league>
+    <league id="42018" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia NPL - Victoria Corners</league>
+    <league id="66350" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia NPL - Victoria Division 1 Corners</league>
+    <league id="9318" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Western Australia Cup</league>
+    <league id="1756" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Australia NPL - Victoria Division 1</league>
+    <league id="8584" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia NPL - Queensland</league>
+    <league id="1765" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Australia - A-League Pre-Season Cup</league>
+    <league id="1766" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Australia - A League</league>
+    <league id="10030" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia - Womens League</league>
+    <league id="48010" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia - A League Bookings</league>
+    <league id="6782" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Australia - A League Corners</league>
+    <league id="1769" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Australia NPL - Victoria</league>
+    <league id="1773" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Austria - Erste Liga</league>
+    <league id="76258" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Austria - Cup Corners</league>
+    <league id="1776" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Austria - Cup</league>
+    <league id="1792" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Austria - Bundesliga</league>
+    <league id="6299" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Austria - Bundesliga Corners</league>
+    <league id="8727" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia Victorian Cup</league>
+    <league id="7167" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Azerbaijan - Premier League</league>
+    <league id="1796" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Azerbaijan - Cup</league>
+    <league id="1798" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Bahrain - FA Cup</league>
+    <league id="8666" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Bahrain - Premier League</league>
+    <league id="1800" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Bahrain - King''''s Cup</league>
+    <league id="10769" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Brazil - Baiano</league>
+    <league id="1801" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Baltic - Cup</league>
+    <league id="88184" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Bangladesh - Premier League</league>
+    <league id="6416" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Belarus - Premier League</league>
+    <league id="1813" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Belarus - Cup</league>
+    <league id="10336" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Belgium - 2nd Division Corners</league>
+    <league id="10584" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Belgium - Cup Corners</league>
+    <league id="1816" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Belgium - Super Cup</league>
+    <league id="1817" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Belgium - Pro League</league>
+    <league id="1818" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Belgium - 2nd Division</league>
+    <league id="6486" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Belgium - Pro League Corners</league>
+    <league id="1819" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Belgium - Cup</league>
+    <league id="10254" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Belgium - Youth League</league>
+    <league id="9975" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">BeNeLeague - Women</league>
+    <league id="5595" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Bolivia - LFPB</league>
+    <league id="11681" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Brazil - Potiguar</league>
+    <league id="1829" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Brazil - Gaucho</league>
+    <league id="185632" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Brazil - Serie B Corners</league>
+    <league id="10883" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Brazil - Copa Do Nordeste</league>
+    <league id="75455" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Brazil - Copa Verde</league>
+    <league id="10885" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Brazil - Pernambucano</league>
+    <league id="1833" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Brazil - Cup</league>
+    <league id="1834" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">Brazil - Serie A</league>
+    <league id="1835" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">Brazil - Serie B</league>
+    <league id="10402" homeTeamType="Team1" feedContents="1" allowRoundRobins="0">Brazil - U20</league>
+    <league id="6310" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Brazil - Serie A Corners</league>
+    <league id="9320" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Bulgaria - A PFG</league>
+    <league id="1839" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Bulgaria - Cup</league>
+    <league id="9503" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Bulgaria - Super Cup</league>
+    <league id="5886" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Germany - Bundesliga 2 Corners</league>
+    <league id="8564" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Germany - Bundesliga 3 Corners</league>
+    <league id="5874" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Germany - Bundesliga Corners</league>
+    <league id="8705" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Germany - Bundesliga U19</league>
+    <league id="1842" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Germany - Bundesliga</league>
+    <league id="1843" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Germany - Bundesliga 2</league>
+    <league id="1844" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Germany - Bundesliga 3</league>
+    <league id="1845" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Germany - Bundesliga Women</league>
+    <league id="10768" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Brazil - Caerense</league>
+    <league id="10897" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">CAF - Super Cup</league>
+    <league id="11686" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">CAF - U20 Championship</league>
+    <league id="1850" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Canada - Championship</league>
+    <league id="1851" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Canada - Soccer League</league>
+    <league id="1852" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Brazil - Carioca</league>
+    <league id="72421" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Brazil - Carioca Corners</league>
+    <league id="4711" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Carling Nations Cup</league>
+    <league id="10776" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Brazil - Catarinense Division 1</league>
+    <league id="1854" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Africa - CECAFA Cup</league>
+    <league id="6476" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">International Champions Cup Corners</league>
+    <league id="1855" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">International Champions Cup</league>
+    <league id="10279" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Chile - Primera B</league>
+    <league id="72423" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Chile - Primera B Corners</league>
+    <league id="1856" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Chile - Cup</league>
+    <league id="10587" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Chile - Cup Corners</league>
+    <league id="1857" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Chile - Primera Division</league>
+    <league id="10658" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Chile - Primera Division Corners</league>
+    <league id="6417" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">China - Super League</league>
+    <league id="11670" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">China - Super League Corners</league>
+    <league id="8655" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">China - League One</league>
+    <league id="1859" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">China - FA Cup</league>
+    <league id="10813" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">China - Super Cup</league>
+    <league id="5452" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UEFA - Champions League Corners</league>
+    <league id="5979" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Club Friendlies II</league>
+    <league id="10711" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Club Friendlies II - Corners</league>
+    <league id="10608" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Club Friendlies - Corners</league>
+    <league id="1863" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">Club Friendlies</league>
+    <league id="1864" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Club Friendly - Women</league>
+    <league id="1865" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - Club World Cup</league>
+    <league id="10423" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">FIFA - Club World Cup Corners</league>
+    <league id="5591" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Colombia - Primera A</league>
+    <league id="72425" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Colombia - Primera A Corners</league>
+    <league id="10921" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Colombia - Primera B</league>
+    <league id="1867" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Colombia - Cup</league>
+    <league id="10629" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Colombia - Super Cup</league>
+    <league id="1870" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">CONCACAF - Champions League</league>
+    <league id="4787" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">CONCACAF - U20 Championship</league>
+    <league id="6354" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - Confed Cup Corners</league>
+    <league id="1871" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - Confed Cup</league>
+    <league id="187542" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">CONMEBOL - Copa America Corners</league>
+    <league id="187543" homeTeamType="Team1" feedContents="1" allowRoundRobins="0">CONMEBOL - Copa America Bookings</league>
+    <league id="1872" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">CONMEBOL - Copa America</league>
+    <league id="1875" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">CONMEBOL - Copa Libertadores</league>
+    <league id="6283" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">CONMEBOL - Copa Libertadores Corners</league>
+    <league id="4677" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">CONCACAF - Copa Centro Americana</league>
+    <league id="9383" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Copa EuroAmericana</league>
+    <league id="1878" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Copa Panamericana</league>
+    <league id="9531" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Costa Rica - Primera Division</league>
+    <league id="9532" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Costa Rica - Cup</league>
+    <league id="72429" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Costa Rica - Primera Division Corners</league>
+    <league id="72427" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Croatia - 1. HNL Corners</league>
+    <league id="1880" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Croatia - 1. HNL</league>
+    <league id="1881" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Croatia - 2. HNL</league>
+    <league id="1882" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Croatia - Cup</league>
+    <league id="6851" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">sonia test</league>
+    <league id="1887" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Cyprus - 1st  Division</league>
+    <league id="1888" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Cyprus - Cup</league>
+    <league id="6648" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Cyprus - 1st Division Corners</league>
+    <league id="7955" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International - Cyprus Cup Women</league>
+    <league id="1890" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Cyprus - Super Cup</league>
+    <league id="1891" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Czech Republic - Czech Liga</league>
+    <league id="6758" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Czech Republic - Czech Liga Corners</league>
+    <league id="1898" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Czech Republic - Cup</league>
+    <league id="10895" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Czech Republic - U19 League</league>
+    <league id="9755" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Czech Republic - U21 League</league>
+    <league id="9441" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Czech Republic - 2. Liga</league>
+    <league id="1903" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Sweden - Damallsvenskan</league>
+    <league id="1904" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Denmark - Division 1</league>
+    <league id="6666" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Denmark - Division 1 Corners</league>
+    <league id="6822" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Denmark - Cup Corners</league>
+    <league id="1908" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Denmark - Cup</league>
+    <league id="1913" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Denmark - Superliga</league>
+    <league id="6426" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Denmark - Superliga Corners</league>
+    <league id="10841" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Denmark - Reserve League</league>
+    <league id="163789" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Denmark - U19</league>
+    <league id="1924" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Denmark - U21</league>
+    <league id="187661" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Denmark - Elitedivisionen Women</league>
+    <league id="92470" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Dota 2 - ECL</league>
+    <league id="163752" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Dota 2 -  AOC &amp; Rapoo Masters</league>
+    <league id="1928" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Netherlands - Eredivisie</league>
+    <league id="1929" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Netherlands - Eerste Divisie</league>
+    <league id="1930" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Netherlands - Cup</league>
+    <league id="6273" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Netherlands - Cup Corners</league>
+    <league id="6439" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Netherlands - Super Cup Corners</league>
+    <league id="1933" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Netherlands - Super Cup</league>
+    <league id="10147" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Netherlands - Jong Eredivisie U23</league>
+    <league id="6312" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Netherlands - Eredivisie Corners</league>
+    <league id="6713" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Netherlands - Eerste Divisie Corners</league>
+    <league id="6437" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">EAFF East Asian - Cup Women Corners</league>
+    <league id="1939" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">EAFF East Asian - Cup Men</league>
+    <league id="6435" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">EAFF East Asian Cup - Women</league>
+    <league id="5598" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Ecuador - Serie A</league>
+    <league id="6668" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Ecuador - Serie A Corners</league>
+    <league id="1946" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Egypt - Cup</league>
+    <league id="9885" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">Egypt - Premier League</league>
+    <league id="125463" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Egypt - Premier League Corners</league>
+    <league id="1950" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Emirates Cup</league>
+    <league id="6834" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">England - League Cup Corners</league>
+    <league id="5938" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">England - Championship Corners</league>
+    <league id="10553" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">England - Cheshire Senior Cup</league>
+    <league id="1951" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">England - Conference North</league>
+    <league id="1952" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">England - Conference South</league>
+    <league id="10551" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">England - Derbyshire Senior Cup</league>
+    <league id="1953" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">England - Community Shield</league>
+    <league id="1955" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">England - FA Youth</league>
+    <league id="10549" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">England - Isthmian League Cup</league>
+    <league id="11697" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">England - Isthmian Premier League</league>
+    <league id="1957" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">England - League 1</league>
+    <league id="6303" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">England - League 1 Corners</league>
+    <league id="1958" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">England - League 2</league>
+    <league id="42016" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">England - League 2 Corners</league>
+    <league id="11693" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">England - Northern Premier League</league>
+    <league id="5487" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">England - Premier League Corners</league>
+    <league id="10555" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">England - Southern Football League Cup</league>
+    <league id="11695" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">England - Southern Premier League</league>
+    <league id="8713" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">England - Womens Super League</league>
+    <league id="1977" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">England - Championship</league>
+    <league id="1978" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">England - Conference National</league>
+    <league id="1979" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">England - FA Cup</league>
+    <league id="1980" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">England - Premier League</league>
+    <league id="1981" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">England - FA Cup Women</league>
+    <league id="6678" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">England - Conference National Corners</league>
+    <league id="1982" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">England - League Cup</league>
+    <league id="1983" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">England - FA Trophy</league>
+    <league id="6516" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">England - Community Shield Corners</league>
+    <league id="6276" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">England - FA Cup Corners</league>
+    <league id="1985" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">England - JP Trophy</league>
+    <league id="1988" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">EPL Specials</league>
+    <league id="6565" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">England - Premier League U21</league>
+    <league id="6682" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">England - Premier League U21 Corners</league>
+    <league id="1989" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Estonia - Meistriliiga</league>
+    <league id="9544" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Estonia - Meistriliiga (1st Division) Corners</league>
+    <league id="125461" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Estonia - Cup</league>
+    <league id="5643" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">EURO - Corners</league>
+    <league id="1998" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">EURO LIVE</league>
+    <league id="9601" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">UEFA - Europa League Qualifiers Corners</league>
+    <league id="5981" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - World Cup Qualifiers Europe II</league>
+    <league id="2010" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - U20 World Cup Women</league>
+    <league id="4483" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - U17 World Cup Women</league>
+    <league id="2012" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - World Cup Qualifiers Women</league>
+    <league id="2013" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - World Cup Qualifiers Africa</league>
+    <league id="2014" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - World Cup Qualifiers Asia</league>
+    <league id="5980" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - World Cup Qualifiers Europe II</league>
+    <league id="2015" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - World Cup Qualifiers Europe</league>
+    <league id="6760" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - World Cup Qualifiers Intercontinental</league>
+    <league id="5001" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - World Cup Qualifiers Oceania</league>
+    <league id="2016" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - World Cup Qualifiers South America</league>
+    <league id="5894" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - World Cup Qualifiers Europe Corners</league>
+    <league id="6852" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - World Cup Qualifiers Women Corners</league>
+    <league id="6990" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - World Cup Qualifiers Africa Corners</league>
+    <league id="6522" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - World Cup Qualifiers Europe Corners</league>
+    <league id="7016" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - World Cup Qualifier Intercontinental Corner</league>
+    <league id="2017" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - World Cup Qualifiers North America</league>
+    <league id="6338" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - World Cup Qualifiers South America Corners</league>
+    <league id="2018" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Finland - Kakkonen</league>
+    <league id="2020" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Finland - Cup</league>
+    <league id="4993" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Finland - League Cup</league>
+    <league id="2023" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Finland - Cup Women</league>
+    <league id="2024" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Finland - Veikkausliiga</league>
+    <league id="6385" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Finland - Veikkausliiga Corners</league>
+    <league id="2025" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Finland - Ykkonen</league>
+    <league id="2026" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Four Nations Tournament</league>
+    <league id="6321" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">France - Cup Corners</league>
+    <league id="2027" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">France - National</league>
+    <league id="2032" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">France - Cup</league>
+    <league id="2033" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">France - Feminine Division 1</league>
+    <league id="2034" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">France - League Cup</league>
+    <league id="6836" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">France - League Cup Corners</league>
+    <league id="2035" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">France - Super Cup</league>
+    <league id="6489" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">France - Super Cup Corners</league>
+    <league id="2036" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">France - Ligue 1</league>
+    <league id="2037" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">France - Ligue 2</league>
+    <league id="6495" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">France - Ligue 2 Corners</league>
+    <league id="6267" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">France - Ligue 1 Corners</league>
+    <league id="2038" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Friendlies</league>
+    <league id="2039" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Friendly - U19</league>
+    <league id="2040" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Friendly - U20</league>
+    <league id="2041" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Friendly - U21</league>
+    <league id="2042" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Friendly - Women</league>
+    <league id="10728" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">GCC - Champions League</league>
+    <league id="10236" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Georgia - Umaglesi Liga</league>
+    <league id="2044" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Georgia - Cup</league>
+    <league id="8719" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Germany - Brandenburg Cup</league>
+    <league id="8721" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Germany Niedersachsen Cup</league>
+    <league id="6546" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Germany - Regionalliga Bavaria</league>
+    <league id="6680" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Germany - Regionalliga Bavaria Corners</league>
+    <league id="2048" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Germany - Regionalliga North</league>
+    <league id="6545" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Germany - Regionalliga North East</league>
+    <league id="2049" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Germany - Regionalliga Sued</league>
+    <league id="6543" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Germany - Regionalliga South West</league>
+    <league id="2050" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Germany - Regionalliga West</league>
+    <league id="149053" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Germany - Regional Cup Westfalen</league>
+    <league id="8722" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Germany Rheinland Cup</league>
+    <league id="6441" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Germany - Super Cup Corners</league>
+    <league id="2054" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Germany - Super Cup</league>
+    <league id="6325" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Germany - Cup Corners</league>
+    <league id="2067" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Germany - Cup</league>
+    <league id="2068" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Germany - DFB Pokal Women</league>
+    <league id="8732" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Germany - Regionalliga Cup Mittelrhein</league>
+    <league id="10748" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Gibraltar - Premier Division</league>
+    <league id="10780" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Brazil - Goiano Division 1</league>
+    <league id="2077" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">CONCACAF - Gold Cup</league>
+    <league id="6401" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">CONCACAF - Gold Cup Corners</league>
+    <league id="35185" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">CONCACAF - Gold Cup Qualifiers</league>
+    <league id="2080" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Greece - Cup</league>
+    <league id="10589" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Greece - Cup Corners</league>
+    <league id="2081" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Greece - Super League</league>
+    <league id="10250" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Greece - Football League</league>
+    <league id="6756" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Greece - Super League Corners</league>
+    <league id="10390" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Greece - Super League U20</league>
+    <league id="2089" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">AFC - Gulf Clubs Championship</league>
+    <league id="2090" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">AFC - Gulf Cup</league>
+    <league id="10272" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">AFC - Gulf Cup Corners</league>
+    <league id="10363" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hong Kong - League Cup</league>
+    <league id="9809" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hong Kong - Premier League</league>
+    <league id="10940" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hong Kong - FA Cup</league>
+    <league id="2095" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Hungary - NB 1</league>
+    <league id="2096" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Hungary - Cup</league>
+    <league id="2098" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Hungary - League Cup</league>
+    <league id="69875" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hungary - NB 1 Corners</league>
+    <league id="6733" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Hungary - Ligakupa Corners</league>
+    <league id="2100" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">Iceland - 1. Deild</league>
+    <league id="2101" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Iceland - Cup</league>
+    <league id="10509" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Iceland - Fotbolti Cup</league>
+    <league id="4994" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Iceland - League Cup</league>
+    <league id="2102" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">Iceland - Premier League</league>
+    <league id="10492" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">India - Federation Cup</league>
+    <league id="10353" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">India - Goa Professional League</league>
+    <league id="10578" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">India - I-League</league>
+    <league id="10083" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">India - Super League</league>
+    <league id="10636" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">India - I-League U19</league>
+    <league id="8717" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Indonesia - Super League</league>
+    <league id="5978" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">International - Friendlies II</league>
+    <league id="10982" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International Friendlies - U19 Women</league>
+    <league id="10597" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International - Friendlies II Corners</league>
+    <league id="6323" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">International - Friendlies Corners</league>
+    <league id="2104" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Interliga</league>
+    <league id="2106" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UEFA - Intertoto Cup</league>
+    <league id="2107" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Friendly - International Friend. Youth Tournament</league>
+    <league id="2112" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">International - Friendlies U19</league>
+    <league id="2113" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">International - Friendlies U20</league>
+    <league id="2114" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">International - Friendlies U21</league>
+    <league id="48006" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International - Friendlies U21 Corners</league>
+    <league id="2115" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">International - Friendlies U23</league>
+    <league id="10937" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International Friendlies - U23 Women</league>
+    <league id="72435" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International - Friendlies Women Corners</league>
+    <league id="2116" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">International - Friendlies Women</league>
+    <league id="48008" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International Friendlies - Bookings</league>
+    <league id="2117" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">International - Friendlies</league>
+    <league id="10346" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Iran - Cup</league>
+    <league id="2118" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Iran - Pro League</league>
+    <league id="125378" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Iraq - League</league>
+    <league id="2120" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">Ireland - Premier</league>
+    <league id="6392" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Ireland - Premier Corners</league>
+    <league id="2122" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Ireland - League Cup</league>
+    <league id="2123" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Ireland - Division 1</league>
+    <league id="2124" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Ireland - FAI Cup</league>
+    <league id="2125" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Ireland - Leinster Senior Cup</league>
+    <league id="10954" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Ireland - Super Cup</league>
+    <league id="10604" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Israel - Liga Alef</league>
+    <league id="2129" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Israel - State Cup</league>
+    <league id="2133" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Israel - Ligat Leumit</league>
+    <league id="2136" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Israel - Premier League</league>
+    <league id="2138" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Israel - Toto Cup</league>
+    <league id="6650" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Israel - Premier League Corners</league>
+    <league id="2147" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Italy - Cup</league>
+    <league id="6319" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Italy - Cup Corners</league>
+    <league id="10332" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Italy - Lega Pro</league>
+    <league id="10806" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Italy - Lega Pro Cup</league>
+    <league id="163785" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Italy - Lega Pro Super Cup</league>
+    <league id="10455" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Italy - Super Cup Corners</league>
+    <league id="2153" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Italy - Super Cup</league>
+    <league id="10227" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Italy - Primavera Championship</league>
+    <league id="10448" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Italy - Primavera Cup</league>
+    <league id="88182" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Italy - Dante Berretti Championship</league>
+    <league id="2157" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">Japan - J League</league>
+    <league id="6308" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Japan - J League Corners</league>
+    <league id="2159" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Japan - J2 League</league>
+    <league id="6784" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Japan - J2 League Corners</league>
+    <league id="10078" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Japan - J3 League</league>
+    <league id="10407" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Jamaica - Premier League</league>
+    <league id="9747" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Japan - Cup Corners</league>
+    <league id="2160" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Japan - Cup</league>
+    <league id="2161" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Japan - Cup Women</league>
+    <league id="6595" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Japan - League Cup Corners</league>
+    <league id="4995" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Japan - League Cup</league>
+    <league id="5421" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Japan - Super Cup</league>
+    <league id="9902" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Jordan - Pro League</league>
+    <league id="72433" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Jordan - Pro League Corners</league>
+    <league id="2167" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Jordan - Cup</league>
+    <league id="2169" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Jordan -Shield Cup</league>
+    <league id="10967" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Kazakhstan - Super Cup</league>
+    <league id="6418" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Kazakhstan - Premier League</league>
+    <league id="2176" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Kazakhstan - Cup</league>
+    <league id="2178" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Asia - Kings Cup</league>
+    <league id="2179" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">International - Kirin Cup</league>
+    <league id="9097" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Korea Republic - K League Challenge</league>
+    <league id="2181" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Korea Republic - FA Cup</league>
+    <league id="2185" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">Korea Republic - K League Classic</league>
+    <league id="51239" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Korea Republic - K League Classic Corners</league>
+    <league id="2188" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Korea - National League</league>
+    <league id="2189" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Korea - National League Cup</league>
+    <league id="10380" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Kuwait - Premier League</league>
+    <league id="2196" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Spain - La Liga</league>
+    <league id="5490" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Spain - La Liga Corners</league>
+    <league id="32746" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Spain - La Liga Bookings</league>
+    <league id="2198" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Spain - La Liga Specials</league>
+    <league id="2199" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">La Manga Cup</league>
+    <league id="2201" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Lahti Cup</league>
+    <league id="2203" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Latvia - Virsliga</league>
+    <league id="9542" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Latvia - Virsliga Corner</league>
+    <league id="2204" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Latvia - Cup</league>
+    <league id="10150" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Lithuania - Cup</league>
+    <league id="2211" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">Lithuania -  A Lyga</league>
+    <league id="10320" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Live Bahrain - Cup</league>
+    <league id="5606" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Live Colombia - Primera A</league>
+    <league id="6714" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Live Netherlands - Eerste Divisie Corners</league>
+    <league id="5545" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Live - UEFA EURO 2012</league>
+    <league id="5051" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Live UEFA - Europa League Qualifier</league>
+    <league id="4932" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Live UEFA - Championship U21</league>
+    <league id="10094" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Live UEFA - Champions League Women</league>
+    <league id="10281" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Live Venezuela - Cup</league>
+    <league id="6307" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Live UEFA - Champions League Women</league>
+    <league id="6440" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Live Netherlands - Super Cup Corners</league>
+    <league id="6488" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Live France - Super Cup</league>
+    <league id="9764" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">ATP Challenger Izmir - QF</league>
+    <league id="2233" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Malaysia - Premier League</league>
+    <league id="2234" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Malaysia - Super League</league>
+    <league id="2242" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Mexico - Primera Division</league>
+    <league id="6423" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Mexico - Primera Division Corners</league>
+    <league id="5778" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Mexico - Cup</league>
+    <league id="10602" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Mexico - U20 League</league>
+    <league id="10778" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Brazil - Mineiro</league>
+    <league id="10288" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Morroco - Cup</league>
+    <league id="2253" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Morocco - Botola Pro</league>
+    <league id="4996" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Northern Ireland - League Cup</league>
+    <league id="2255" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">North America - United Soccer League</league>
+    <league id="2258" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Northern Ireland - Cup</league>
+    <league id="2259" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Northern Ireland - Premiership</league>
+    <league id="2261" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">North America - Super Liga</league>
+    <league id="2264" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">New Zealand - Premier</league>
+    <league id="6816" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Norway - 1st Division Corners</league>
+    <league id="5888" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Norway - Tippeligaen Corners</league>
+    <league id="2280" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">Norway - Cup</league>
+    <league id="2281" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Norway - Cup Women</league>
+    <league id="2331" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Norway - 1st Division</league>
+    <league id="2332" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Norway - 2nd Division</league>
+    <league id="2333" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">Norway - Tippeligaen</league>
+    <league id="125458" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">OFC - Champions League</league>
+    <league id="4999" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Olympic - Men</league>
+    <league id="2349" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Olympic - Qualifiers Men</league>
+    <league id="5000" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Olympic - Women</league>
+    <league id="2350" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Olympic Soccer - Qualifiers Women</league>
+    <league id="10416" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Oman - Professional League</league>
+    <league id="10270" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Palestine - West Bank League</league>
+    <league id="2354" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Pan American Games - Men</league>
+    <league id="2355" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Pan American Games - Women</league>
+    <league id="2356" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UEFA - Pan Arabia Games</league>
+    <league id="10573" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Panama - Primera Division</league>
+    <league id="2359" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Paraguay - Division Profesional</league>
+    <league id="9591" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Paraguay - Division Profesional Corners</league>
+    <league id="10770" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Brazil - Paranaense</league>
+    <league id="2360" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Brazil - Paulista</league>
+    <league id="10782" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Brazil - Paulista  A2</league>
+    <league id="2361" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Friendlies - Peace Queen Cup</league>
+    <league id="2366" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Peru - Primera Division</league>
+    <league id="10899" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Peru - Copa Inca</league>
+    <league id="5592" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Peru - Copa Peru</league>
+    <league id="10754" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Peru - Torneo del Inca</league>
+    <league id="10634" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Philippines - FA League Cup</league>
+    <league id="10745" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Philippines - UFL</league>
+    <league id="185648" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Philippines - UFL Cup</league>
+    <league id="10606" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Philippines - National Club Championship</league>
+    <league id="6421" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Poland - Ekstraklasa Corners</league>
+    <league id="6633" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Poland - 1st Liga</league>
+    <league id="10276" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Poland - 2nd Division</league>
+    <league id="2373" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Poland - Cup</league>
+    <league id="163787" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Poland - Ekstraliga Women</league>
+    <league id="2374" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Poland - Ekstraklasa</league>
+    <league id="5828" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Poland - Super Cup</league>
+    <league id="6985" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Poland - 1st Liga Corners</league>
+    <league id="2381" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Portugal - Super Cup</league>
+    <league id="10543" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Portugal - League Cup Corners</league>
+    <league id="6814" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Portugal - Liga de Honra Corners</league>
+    <league id="6600" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Portugal - Primeira Liga Corners</league>
+    <league id="4997" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Portugal - League Cup</league>
+    <league id="6313" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Portugal - Cup Corners</league>
+    <league id="2384" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Portugal - Cup</league>
+    <league id="2386" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Portugal - Primeira Liga</league>
+    <league id="2387" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Portugal - Liga de Honra</league>
+    <league id="10905" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Qatar - Crown Prince Cup</league>
+    <league id="11711" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Qatar - Stars League Corners</league>
+    <league id="10903" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Qatar - Emir Cup</league>
+    <league id="10907" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Qatar - Super Cup</league>
+    <league id="10901" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Qatar - Stars Cup</league>
+    <league id="8128" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Qatar - Stars League</league>
+    <league id="2394" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">CONMEBOL - Recopa Sudamericana</league>
+    <league id="16340" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Romania - Liga 1 Corners</league>
+    <league id="2395" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Romania - Liga 1</league>
+    <league id="2396" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Romania - Cup</league>
+    <league id="9250" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Romania - League Cup</league>
+    <league id="6838" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Romania - Cup Corners</league>
+    <league id="2406" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Russia - Premier League</league>
+    <league id="2407" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Russia - 1st  Division</league>
+    <league id="9757" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Russia - 2nd Division</league>
+    <league id="2409" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Russia - Cup</league>
+    <league id="185642" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Russia - Cup Corners</league>
+    <league id="35174" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Russia - FNL</league>
+    <league id="6431" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Russia - Premier League Corners</league>
+    <league id="4763" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Russia - Super Cup</league>
+    <league id="9429" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Russia - Youth Championship U21</league>
+    <league id="2411" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">South Africa - Cup</league>
+    <league id="10419" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Saudi Arabia - Pro League</league>
+    <league id="10600" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Saudi Arabia - Division 1</league>
+    <league id="16278" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Saudi Arabia - Pro League Corners</league>
+    <league id="10792" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Saudi Arabia - Champions Cup</league>
+    <league id="10791" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Saudi Arabia - Cup</league>
+    <league id="2417" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Scotland - Championship</league>
+    <league id="2418" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Scotland - League One</league>
+    <league id="2419" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Scotland - League Two</league>
+    <league id="2420" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Scotland - Challenge Cup</league>
+    <league id="6315" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Scotland - Cup Corners</league>
+    <league id="10145" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Scotland - SPFL Development League U20</league>
+    <league id="4998" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Scotland - League Cup</league>
+    <league id="2421" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Scotland - Premier League</league>
+    <league id="6824" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Scotland - Championship Corners</league>
+    <league id="6519" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Scotland - Premier League Corners</league>
+    <league id="2426" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Scotland - Cup</league>
+    <league id="185680" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Southeast Asian Games</league>
+    <league id="10317" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Spain - Segunda B</league>
+    <league id="2429" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Spain - Segunda B Playoff</league>
+    <league id="5898" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Spain - Segunda Division Corners</league>
+    <league id="2432" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Spain - Segunda Division</league>
+    <league id="2434" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Serbia - Super Liga</league>
+    <league id="2435" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Serbia - Cup</league>
+    <league id="2436" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Italy - Serie A</league>
+    <league id="5488" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Italy - Serie A Corners</league>
+    <league id="2438" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Italy - Serie B</league>
+    <league id="5896" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Italy - Serie B Corners</league>
+    <league id="2444" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Ireland - Setanta Cup</league>
+    <league id="9603" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Singapore - S League Corners</league>
+    <league id="9427" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Singapore - S League</league>
+    <league id="9945" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Singapore - Cup</league>
+    <league id="9163" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Singapore - League Cup</league>
+    <league id="2453" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Slovakia - Super Liga</league>
+    <league id="2454" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Slovakia - Cup</league>
+    <league id="2456" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Slovenia - Cup</league>
+    <league id="2457" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Slovenia - Prva Liga</league>
+    <league id="2460" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">South Africa - Premier League</league>
+    <league id="2462" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Spain - Cup</league>
+    <league id="6735" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Spain - Cup Corners</league>
+    <league id="2463" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Spain - Super Cup</league>
+    <league id="72431" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Spain - Primera Division Women Corners</league>
+    <league id="2468" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Spain - Primera Division Women</league>
+    <league id="2470" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Spain - Copa del Rey</league>
+    <league id="5878" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Spain - Super Cup Corners</league>
+    <league id="2472" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">CONMEBOL - Copa Sudamericana</league>
+    <league id="4679" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">CONMEBOL - U20 Championship</league>
+    <league id="6914" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">CONMEBOL - Copa Sudamericana Corners</league>
+    <league id="2473" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">CONMEBOL - U20 Championship Women</league>
+    <league id="2476" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">Sweden - Superettan</league>
+    <league id="6388" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Sweden - Superettan Corners</league>
+    <league id="6317" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Sweden - Cup Corners</league>
+    <league id="2503" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Sweden - International Tournament</league>
+    <league id="2510" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">Sweden - Division 1 Norra</league>
+    <league id="2512" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Sweden - Super Cup</league>
+    <league id="2513" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Sweden - Division 1 Sodra</league>
+    <league id="2514" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Sweden - U21</league>
+    <league id="2516" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Sweden - Cup</league>
+    <league id="2517" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Switzerland - Super League</league>
+    <league id="2518" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Switzerland - Challenge League</league>
+    <league id="6428" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Switzerland - Super League Corners</league>
+    <league id="2519" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Switzerland - Cup</league>
+    <league id="187569" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Switzerland - Cup Corners</league>
+    <league id="2520" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Switzerland - Playoffs</league>
+    <league id="10334" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Syria - Premier League</league>
+    <league id="2547" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Test Folder</league>
+    <league id="6664" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Test Corner League</league>
+    <league id="11117" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">testting3</league>
+    <league id="6420" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Thailand - FA Cup</league>
+    <league id="9096" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Thailand - League Cup</league>
+    <league id="6419" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Thailand - Premier League</league>
+    <league id="2568" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Italy - Trofeo Luigi Berlusconi</league>
+    <league id="2572" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Tunisia - Cup</league>
+    <league id="10355" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Tunisia - League 1</league>
+    <league id="6811" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Turkey - Super League Corners</league>
+    <league id="2578" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Turkey - 1st League</league>
+    <league id="2586" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Turkey - Cup</league>
+    <league id="2592" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Turkey - Super League</league>
+    <league id="5497" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Turkey - Spor Toto Cup</league>
+    <league id="10425" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Turkey - Cup Corners</league>
+    <league id="2597" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Turkey - Super Cup</league>
+    <league id="2604" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">U17 Eur W Ch</league>
+    <league id="2605" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">U17 EuroCham</league>
+    <league id="2606" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">U17 InterFri</league>
+    <league id="2607" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">U17 SAC Wom</league>
+    <league id="6779" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - World Cup U17 Corners</league>
+    <league id="2608" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - World Cup U17</league>
+    <league id="2609" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">U17Eur Ch Q</league>
+    <league id="2610" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">U17Eur W ChQ</league>
+    <league id="2611" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">U17Inter.Cup</league>
+    <league id="2612" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">U19 CL Cup</league>
+    <league id="2615" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">U19 Eur Cham</league>
+    <league id="2616" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UEFA - U19 Euro Championship Women Qualifiers</league>
+    <league id="2617" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UEFA - Euro Champ. Qualifiers U19</league>
+    <league id="2619" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">South America - U20</league>
+    <league id="2620" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - World Cup U20</league>
+    <league id="6381" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - World Cup U20 Corners</league>
+    <league id="16276" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">UAE - Arabian Gulf League Corners</league>
+    <league id="8126" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UAE - Arabian Gulf League</league>
+    <league id="2624" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UAE - Presidents Cup</league>
+    <league id="2625" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UAE - Division 1</league>
+    <league id="2626" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UAE - Division 2</league>
+    <league id="10072" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">United Arab Emirates - FA Cup</league>
+    <league id="10034" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">United Arab Emirates - League Cup</league>
+    <league id="10750" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">United Arab Emirates - U21 League</league>
+    <league id="2627" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UEFA - Champions League</league>
+    <league id="16325" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">UEFA - Champions League Bookings</league>
+    <league id="2629" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UEFA - Champions League Qualifiers</league>
+    <league id="2630" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UEFA - Europa League</league>
+    <league id="2631" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UEFA Europa League - Specials</league>
+    <league id="2632" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UEFA - Europa League Qualifiers</league>
+    <league id="185678" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">UEFA - Europa League Bookings</league>
+    <league id="5264" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UEFA - EURO</league>
+    <league id="2635" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UEFA - EURO Qualifiers</league>
+    <league id="9749" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">UEFA - EURO Qualifiers Corners</league>
+    <league id="5880" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UEFA - Super Cup Corners</league>
+    <league id="2636" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">UEFA - Super Cup</league>
+    <league id="2638" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UEFA - U19 European Championship</league>
+    <league id="6458" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UEFA - U19 European Championship Corners</league>
+    <league id="5983" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UEFA - U19 European Championship Qualifiers</league>
+    <league id="10274" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">UEFA - U19 Euro Championship Qualifiers Corners</league>
+    <league id="2639" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">UEFA - U21 European Championship</league>
+    <league id="6334" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UEFA - U21 European Championship Corners</league>
+    <league id="5982" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UEFA - U21 European Championship Qualifiers</league>
+    <league id="2640" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UEFA - EURO Women</league>
+    <league id="2641" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UEFA - EURO Women Qualifiers</league>
+    <league id="2642" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UEFA - Champions League Women</league>
+    <league id="6619" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UEFA - Youth League U19</league>
+    <league id="6912" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UEFA - Youth League U19 Corners</league>
+    <league id="6493" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UEFA - Champions League Qualifiers Corners</league>
+    <league id="7014" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UEFA - U21 European Championship Qualifiers Corner</league>
+    <league id="6408" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UEFA - EURO Women Corners</league>
+    <league id="6263" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">UEFA - Europa League Corners</league>
+    <league id="2645" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Uhren - Cup</league>
+    <league id="6845" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Ukraine - Cup Corners</league>
+    <league id="2647" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Ukraine - Cup</league>
+    <league id="2650" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Ukraine - Premier League</league>
+    <league id="125456" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Ukraine - U19 League</league>
+    <league id="9811" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Ukraine - Youth Championship U21</league>
+    <league id="6809" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Ukraine - Premier League  Corners</league>
+    <league id="2657" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Universiade - Soccer Men</league>
+    <league id="6398" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Universiade - Soccer Women</league>
+    <league id="5593" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Uruguay - Primera Division</league>
+    <league id="5594" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Uruguay - Cup</league>
+    <league id="2662" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">USA - Open Cup</league>
+    <league id="2663" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">USA - Major League Soccer</league>
+    <league id="4809" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">USA - North American Soccer League</league>
+    <league id="6301" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">USA - Major League Soccer Corners</league>
+    <league id="131783" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Uzbekistan - Cup</league>
+    <league id="9813" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Uzbekistan - Oily Liga</league>
+    <league id="5596" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Venezuela - Primera Division</league>
+    <league id="5597" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Venezuela - Cup</league>
+    <league id="9154" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Vietnam - V League</league>
+    <league id="9253" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Vietnam - Cup</league>
+    <league id="2674" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Friendly - World Club</league>
+    <league id="2676" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Friendlies - Peace Cup</league>
+    <league id="2678" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Wales - Premier League</league>
+    <league id="10481" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Wales - Division 1</league>
+    <league id="10285" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Wales - League Cup</league>
+    <league id="2680" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">World - Cup Live Betting</league>
+    <league id="2681" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - World Cup Qualifier</league>
+    <league id="8915" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">FIFA - World Cup Advance Lines</league>
+    <league id="9146" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">FIFA - World Cup Specials</league>
+    <league id="6331" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - World Cup Qualifiers Asia Corners</league>
+    <league id="6340" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - World Cup Qualifiers CONCACAF Corners</league>
+    <league id="2684" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Friendlies - Wembley Cup</league>
+    <league id="2686" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">FIFA - World Cup</league>
+    <league id="8581" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">FIFA - World Cup Corners</league>
+    <league id="2687" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">FIFA - World Cup Women</league>
+    <league id="187537" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">FIFA - World Cup Women Corners</league>
+    <league id="9102" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">FIFA - World Cup Extra Time</league>
+    <league id="2688" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Friendlies - World Football Challenge</league>
+    <league id="2689" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Yemen - Division 1</league>
+  </leagues>
+</rsp>

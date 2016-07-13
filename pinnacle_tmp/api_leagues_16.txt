@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<rsp status="ok">
+  <sportId>16</sportId>
+  <leagues>
+    <league id="904" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Murexin Bundesliga - Men</league>
+    <league id="906" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Belgium - Division 1- Men</league>
+    <league id="907" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Brazil - Taca Brazil - Men</league>
+    <league id="908" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Brazil - Liga Futsal - Men</league>
+    <league id="5140" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Copa America</league>
+    <league id="909" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Czech Republic - League Cup</league>
+    <league id="910" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Czech Republic - Liga 1 - Men</league>
+    <league id="911" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European Championships (OT NOT Included)</league>
+    <league id="912" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European Championships - Qualification</league>
+    <league id="913" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - International Friendlies</league>
+    <league id="914" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Recopa</league>
+    <league id="915" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European U21 Championship - Men</league>
+    <league id="916" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European U21 Championship Qualification</league>
+    <league id="918" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European Championships</league>
+    <league id="920" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Finland - Futsal League</league>
+    <league id="921" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Greece Cup - Men</league>
+    <league id="923" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Division 1 - Men</league>
+    <league id="924" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Italy Cup</league>
+    <league id="929" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Norway - Telekiosken Liga - Men</league>
+    <league id="930" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Poland - Division 1 - Men</league>
+    <league id="931" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Poland - Ekstraklasa - Men</league>
+    <league id="933" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Portugal - 1st Division Futsagres - Men</league>
+    <league id="934" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Portugal Cup</league>
+    <league id="935" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Russia Cup</league>
+    <league id="936" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Russia - Superliga - Men</league>
+    <league id="937" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Spain - Division de Honor - Men</league>
+    <league id="938" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Spain - Division de Honor - Women</league>
+    <league id="939" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Spain - Copa Catalunya</league>
+    <league id="940" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Spain Cup</league>
+    <league id="941" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Spain - Division de Plata - Fase Ascenso Grupo A</league>
+    <league id="942" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Spain - Division de Plata - Fase Ascenso Grupo B</league>
+    <league id="943" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Spain - Division de Plata - Grupo Norte - Men</league>
+    <league id="944" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Spain - Division de Plata - Grupo Sur - Men</league>
+    <league id="945" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Spain - Supercopa - Men</league>
+    <league id="946" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Thailand 5's Tournament</league>
+    <league id="4757" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - UEFA Championship - Qualification</league>
+    <league id="947" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">UEFA Cup</league>
+    <league id="948" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">AFC Championship - Men</league>
+    <league id="5469" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Championship Qualification</league>
+    <league id="949" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Mundialito Outdoor Futsal</league>
+    <league id="950" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World University Championships</league>
+    <league id="951" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">U21 International Friendlies</league>
+    <league id="952" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Intercontinental Cup</league>
+    <league id="953" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Cup</league>
+    <league id="954" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Cup Qualifiers</league>
+    <league id="955" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Grand Prix - Men</league>
+    <league id="956" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International Friendlies</league>
+  </leagues>
+</rsp>

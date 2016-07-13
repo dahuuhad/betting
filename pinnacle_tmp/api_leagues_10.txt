@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<rsp status="ok">
+  <sportId>10</sportId>
+  <leagues>
+    <league id="734" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">BDO World Championships</league>
+    <league id="5293" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">BDO World Championships Women</league>
+    <league id="7651" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">BDO World Trophy</league>
+    <league id="735" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Championship League Darts</league>
+    <league id="5867" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European Darts Tour</league>
+    <league id="736" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Grand Slam of Darts</league>
+    <league id="4783" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International Masters - Men</league>
+    <league id="737" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Las Vegas Desert Classic</league>
+    <league id="6306" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">PDC Dubai Duty Free Darts Masters</league>
+    <league id="4632" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">PDC World Cup of Darts - Men</league>
+    <league id="738" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Players Championship</league>
+    <league id="739" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Pro-Celebrity Tournament</league>
+    <league id="740" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">UK Open</league>
+    <league id="741" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">PDC US Open</league>
+    <league id="6044" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Dutch Dart Masters</league>
+    <league id="742" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Grand Prix</league>
+    <league id="743" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Jockey Wilson Cup</league>
+    <league id="744" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">League of Legends</league>
+    <league id="745" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">PDC World Championships</league>
+    <league id="746" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European Championships</league>
+    <league id="747" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">German Darts Championship</league>
+    <league id="748" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Matchplay</league>
+    <league id="6178" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - Premier League</league>
+    <league id="6216" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World UK Masters</league>
+  </leagues>
+</rsp>

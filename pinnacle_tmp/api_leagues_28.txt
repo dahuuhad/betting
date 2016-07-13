@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<rsp status="ok">
+  <sportId>28</sportId>
+  <leagues>
+    <league id="4973" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australian Goldfields Open</league>
+    <league id="4972" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australian Goldfields Open - Qualifiers</league>
+    <league id="1671" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Bahrain Championship</league>
+    <league id="1672" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Bahrain Championship - Qualifiers</league>
+    <league id="5137" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Brazil Masters -  Men</league>
+    <league id="1673" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Matchroom Champions League</league>
+    <league id="1674" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">China Open - Qualifiers</league>
+    <league id="1675" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">China Open</league>
+    <league id="4621" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Euro Players Tour Championship</league>
+    <league id="4707" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">German Masters - Men</league>
+    <league id="4639" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">German Masters Qualifiers - Men</league>
+    <league id="4770" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hainan Classic - Men</league>
+    <league id="6515" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Indian Open Qualifiers</league>
+    <league id="6699" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Indian Open</league>
+    <league id="6992" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International - Champion of Champions</league>
+    <league id="6002" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International Championship</league>
+    <league id="5860" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International Championship Qualifiers</league>
+    <league id="1677" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Malta Cup</league>
+    <league id="1678" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Masters</league>
+    <league id="1679" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Masters - Qualifiers</league>
+    <league id="5253" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Power Snooker</league>
+    <league id="4771" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">PTC Grand Final - Men</league>
+    <league id="1682" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Royal London Watches Grand Prix</league>
+    <league id="1684" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Shanghai Masters</league>
+    <league id="1685" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Shanghai Masters - Qualifiers</league>
+    <league id="1686" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">UK Championships</league>
+    <league id="1687" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">UK Championships - Qualifiers</league>
+    <league id="5701" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Six-Red World Championship</league>
+    <league id="1688" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Royal London Watches Grand Prix - Qual.</league>
+    <league id="1689" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Northern Ireland Trophy</league>
+    <league id="4591" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - Players Tour Championship</league>
+    <league id="6107" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - Scottish Open</league>
+    <league id="4697" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Shoot Out - Men</league>
+    <league id="1690" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Grand Prix - 6 Reds</league>
+    <league id="6111" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Haikou World Open - Qualifiers</league>
+    <league id="1691" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Championship</league>
+    <league id="1692" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Championship - Qualifiers</league>
+    <league id="4983" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Cup</league>
+    <league id="6434" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Games</league>
+    <league id="4499" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Open</league>
+    <league id="5324" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Open Qualifiers</league>
+    <league id="1693" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Premier League</league>
+    <league id="1694" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Series of Snooker</league>
+    <league id="16323" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - The Grand Prix</league>
+    <league id="1695" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Wuxi Classic</league>
+    <league id="8674" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Wuxi Classics Qualifiers</league>
+    <league id="1696" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Jiangsu Classic</league>
+    <league id="1697" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Welsh Open</league>
+    <league id="1698" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Welsh Open - Qualifiers</league>
+    <league id="1699" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Northern Ireland Trophy - Qualifiers</league>
+    <league id="4600" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Seniors World Championships - Men</league>
+  </leagues>
+</rsp>

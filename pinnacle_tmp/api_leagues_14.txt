@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<rsp status="ok">
+  <sportId>14</sportId>
+  <leagues>
+    <league id="810" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Extraliga - Men</league>
+    <league id="811" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Czech Open - Men</league>
+    <league id="812" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">League Cup - Men</league>
+    <league id="814" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Elitedivisionen Øst - Men</league>
+    <league id="815" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Elitedivisionen Vest - Men</league>
+    <league id="817" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Denmark Cup</league>
+    <league id="818" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Elitedivisionen - Men</league>
+    <league id="819" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Elitedivisionen - Women</league>
+    <league id="820" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">U19 Finnkampen - Women</league>
+    <league id="821" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Finnkampen - Men</league>
+    <league id="822" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Euro Floorball Tour - Men</league>
+    <league id="823" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Euro Floorball Tour - Women</league>
+    <league id="824" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Finnkampen - Women</league>
+    <league id="825" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">EuroFloorball Cup - Men</league>
+    <league id="826" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">EuroFloorball Cup - Women</league>
+    <league id="827" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">U19 Finnkampen - Men</league>
+    <league id="828" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Salibandyliiga - Men</league>
+    <league id="829" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Soumen Cup - Men</league>
+    <league id="841" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Naisten Liiga - Women</league>
+    <league id="842" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Ykkösdivari - Itälohko - Men</league>
+    <league id="843" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Ykkösdivari - Länsilohko - Men</league>
+    <league id="844" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">YleX Cup - Men</league>
+    <league id="846" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Tallinn Cup</league>
+    <league id="847" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International Friendlies</league>
+    <league id="849" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Division 1 Trøndelag - Men</league>
+    <league id="850" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Division 1 Øst - Men</league>
+    <league id="851" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Eliteserien - Men</league>
+    <league id="852" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Eliteserien - Women</league>
+    <league id="856" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Charity Game</league>
+    <league id="857" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Ligacupen - Men</league>
+    <league id="858" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Division 1 Mellersta - Men</league>
+    <league id="859" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Division 1 Norra - Men</league>
+    <league id="860" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Division 1 Sodra - Men</league>
+    <league id="865" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Elitserien - Women</league>
+    <league id="867" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Superligan - Men</league>
+    <league id="868" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Swiss Mobiliar League - Women</league>
+    <league id="869" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Swiss Mobiliar League - Men</league>
+    <league id="870" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Championships - U19 - Men</league>
+    <league id="871" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Challenge - Men</league>
+    <league id="872" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Championships - Division A - Men</league>
+    <league id="873" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Championships - Division B - Men</league>
+  </leagues>
+</rsp>

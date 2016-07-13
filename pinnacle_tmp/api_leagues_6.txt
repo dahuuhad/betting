@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<rsp status="ok">
+  <sportId>6</sportId>
+  <leagues>
+    <league id="16306" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Atomweight</league>
+    <league id="16308" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Bantamweight</league>
+    <league id="16284" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Cruiserweight</league>
+    <league id="16295" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Featherweight</league>
+    <league id="16299" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Flyweight</league>
+    <league id="16283" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Heavyweight</league>
+    <league id="16298" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Junior Bantamweight</league>
+    <league id="16307" homeTeamType="Team1" feedContents="1" allowRoundRobins="0">Junior Featherweight</league>
+    <league id="16301" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Junior Flyweight</league>
+    <league id="16285" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Junior Heavyweight</league>
+    <league id="16293" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Junior Lightweight</league>
+    <league id="16288" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Junior Middleweight</league>
+    <league id="16290" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Junior Welterweight</league>
+    <league id="16300" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Light Flyweight</league>
+    <league id="11715" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Light Heavyweight</league>
+    <league id="16305" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Light Minimumweight</league>
+    <league id="16291" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Light Welterweight</league>
+    <league id="16292" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Lightweight</league>
+    <league id="16287" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Middleweight</league>
+    <league id="16303" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Mini Flyweight</league>
+    <league id="16302" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Minimumweight</league>
+    <league id="16304" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Strawweight</league>
+    <league id="16296" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super Bantamweight</league>
+    <league id="16294" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super Featherweight</league>
+    <league id="16297" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super Flyweight</league>
+    <league id="11716" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super Lightweight</league>
+    <league id="16286" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super Middleweight</league>
+    <league id="16289" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super Welterweight</league>
+    <league id="11713" homeTeamType="Team1" feedContents="1" allowRoundRobins="0">Welterweight</league>
+  </leagues>
+</rsp>

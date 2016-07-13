@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<rsp status="ok">
+  <sportId>36</sportId>
+  <leagues>
+    <league id="4292" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Adriatic League -  Men</league>
+    <league id="4725" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">NWPL - Men</league>
+    <league id="4295" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">NWPL - Women</league>
+    <league id="5956" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Champions League - Men</league>
+    <league id="4296" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">1. Liga - Men</league>
+    <league id="4297" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Croatia Cup - Men</league>
+    <league id="4407" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European Junior Championships - Men</league>
+    <league id="4638" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">LEN Super Cup - Men</league>
+    <league id="4303" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European Youth Championships Qualification -Women</league>
+    <league id="4304" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European Youth Championships Qualification - Men</league>
+    <league id="4305" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European B Championships - Men</league>
+    <league id="4306" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European B Championships - Women</league>
+    <league id="4307" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - LEN Trophy  - Men</league>
+    <league id="4308" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European Championships - Men</league>
+    <league id="4451" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European Championships - Women</league>
+    <league id="4309" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Euroleague - Men</league>
+    <league id="4310" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Championnats de France Elite - Men</league>
+    <league id="4311" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Germany - Bundesliga - Women</league>
+    <league id="4312" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Germany - TURBO Cup - Men</league>
+    <league id="4314" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Germany - TURBO Cup - Women</league>
+    <league id="4315" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Germany - DWL 1 - Men</league>
+    <league id="4316" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Greece - A1 - Men</league>
+    <league id="4317" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Greece - A1 - Women</league>
+    <league id="4318" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Greece Cup - Men</league>
+    <league id="4320" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hungary - Premier League -  Men</league>
+    <league id="4322" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">ING Cup - Men</league>
+    <league id="4324" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Italy - Serie A1 -  Women</league>
+    <league id="4325" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Coppa Italia - Men</league>
+    <league id="4326" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Italy - Serie A1 - Men</league>
+    <league id="4327" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Malta - Division 1 - Men</league>
+    <league id="4328" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Water Polo - Men</league>
+    <league id="4329" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Water Polo - Women</league>
+    <league id="4330" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Unicum Cup - Men</league>
+    <league id="4331" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World International Friendlies - Women</league>
+    <league id="4332" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Championships - Men</league>
+    <league id="4333" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Championships - Women</league>
+    <league id="4334" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World International Friendlies - Men</league>
+    <league id="4335" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World JrCham</league>
+    <league id="4338" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World League -  Men</league>
+    <league id="4339" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Mediterranean Games – Men</league>
+    <league id="4340" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Mediterranean Games – Women</league>
+    <league id="4342" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">FINA Cup - Women</league>
+    <league id="4343" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">FINA Cup - Men</league>
+    <league id="4344" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World League -  Women</league>
+    <league id="4346" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Volvo Cup - Men</league>
+  </leagues>
+</rsp>

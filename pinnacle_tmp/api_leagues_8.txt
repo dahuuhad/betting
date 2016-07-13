@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<rsp status="ok">
+  <sportId>8</sportId>
+  <leagues>
+    <league id="5272" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australia - Twenty20 Big Bash</league>
+    <league id="4488" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Champions League Twenty20</league>
+    <league id="720" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Indian Premier League</league>
+    <league id="5525" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International Test Series</league>
+    <league id="4773" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">LIVE ICC World Cup</league>
+    <league id="5347" homeTeamType="Team1" feedContents="1" allowRoundRobins="0">One Day International</league>
+    <league id="5344" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">South Africa Ram Slam T20 Challenge</league>
+    <league id="4611" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Ashes</league>
+    <league id="722" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Twenty20 World Cup - Warm Up Matches</league>
+    <league id="5180" homeTeamType="Team1" feedContents="1" allowRoundRobins="0">World Twenty20 International</league>
+    <league id="723" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Twenty20 World Cup - Men</league>
+    <league id="724" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Twenty20 World Cup - Women</league>
+    <league id="4742" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Cup</league>
+    <league id="8896" homeTeamType="Team1" feedContents="1" allowRoundRobins="0">World - Test Series</league>
+  </leagues>
+</rsp>

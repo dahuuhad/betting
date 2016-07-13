@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<rsp status="ok">
+  <sportId>41</sportId>
+  <leagues>
+    <league id="7241" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">10km Pursuit Annecy - Le Grand Bornand -Women</league>
+    <league id="7244" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">12.5Km Pursuit Annecy - Le Grand Bornand - Men</league>
+    <league id="7234" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">4x6km Relay Annecy-Le Grand Bornand - Women</league>
+    <league id="7235" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">4x.7.5km Relay Annecy-Le Grand Bornand - Men</league>
+    <league id="7228" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">7.5km Sprint Annecy-Le Grand Bornand - Women</league>
+    <league id="7485" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">10km Sprint Antholz - Men</league>
+    <league id="7486" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">10km Pursuit Antholz - Women</league>
+    <league id="7517" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">12.5km Pursuit -  Antholz - Men</league>
+    <league id="7522" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">4x6km Relay Antholz - Women</league>
+    <league id="7523" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">4x7.5km Relay Antholz - Men</league>
+    <league id="7478" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">7.5km Sprint Antholz - Women</league>
+    <league id="7190" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">10km Sprint Hochfilzen - Men</league>
+    <league id="7206" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">10km Pursuit Hochfilzen - Women</league>
+    <league id="7207" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">12.5km Pursuit Hochfilzen - Men</league>
+    <league id="7203" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">4x6km Relay Hochfilzen - Women</league>
+    <league id="7204" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">4x7.5km Relay Hochfilzen - Men</league>
+    <league id="7176" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">7.5km Sprint Hochfilzen - Women</league>
+    <league id="16338" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">12.5km Mass Start Khanty Mansiysk - Women</league>
+    <league id="16334" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">7.5km Sprint Khanty Mansiysk - Women</league>
+    <league id="16336" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">10km Pursuit Khanty Mansiysk - Women</league>
+    <league id="16333" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">10km Sprint Khanty Mansiysk - Men</league>
+    <league id="16335" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">12.5km Pursuit Khanty Mansiysk - Men</league>
+    <league id="16337" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">15km Mass Start Khanty Mansiysk - Men</league>
+    <league id="11115" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Kontiolahti Mix Relay - Matchups</league>
+    <league id="8053" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">10km Pursuit Kontiolahti - Women</league>
+    <league id="8054" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">12.5km Pursuit Kontiolahti - Men</league>
+    <league id="11702" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">12.5km Mass Start Kontiolahti - Women</league>
+    <league id="11092" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">20km Individual Kontiolahti - Men</league>
+    <league id="11090" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">4x6km Relay Kontiolahti - Women</league>
+    <league id="11091" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">4x7.5km Relay Kontiolahti - Men</league>
+    <league id="8009" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">7.5km Sprint Kontiolahti - Women</league>
+    <league id="8008" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">10km Sprint Kontiolahti - Men</league>
+    <league id="11684" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">15km Individual Kontiolahti - Women</league>
+    <league id="16282" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">15km Mass Start Kontiolahti - Men</league>
+    <league id="10655" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">10km Sprint Nove Mesto - Men</league>
+    <league id="10656" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">10km Pursuit Nove Mesto - Women</league>
+    <league id="10657" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">12.5km Pursuit Nove Mesto - Men</league>
+    <league id="10744" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Nove Mesto Mixed Relay- Matchups</league>
+    <league id="10654" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">7.5km Sprint Nove Mesto - Women</league>
+    <league id="7379" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">12.5km Massstart Oberhof - Women</league>
+    <league id="10458" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">4x6km Relay Oberhof - Women</league>
+    <league id="10459" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">4x7.5km Relay Oberhof - Men</league>
+    <league id="7375" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">10 km Sprint Oberhof - Men</league>
+    <league id="7412" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">15km Mass Start Oberhof - Men</league>
+    <league id="7378" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">10km Pursuit Oberhof - Women</league>
+    <league id="7376" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">12.5km Pursuit Oberhof - Men</league>
+    <league id="7377" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">7.5km Sprint Oberhof - Women</league>
+    <league id="7170" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">10km Pursuit Oestersund - Women</league>
+    <league id="7172" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">12.5km Pursuit Oestersund - Men</league>
+    <league id="6623" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">15km Indivdual Oestersund - Women</league>
+    <league id="7153" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">20km Individual Oestersund - Men</league>
+    <league id="7152" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">20km Indivdual Oestersund - Women</league>
+    <league id="10351" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Mixed Relay Oestersund - Men</league>
+    <league id="7161" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">10km Sprint Oestersund - Men</league>
+    <league id="7162" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">7.5km Sprint Oestersund - Women</league>
+    <league id="7263" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic 10km Sprint - Men</league>
+    <league id="7269" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic 10km Pursuit - Women</league>
+    <league id="7265" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic 15km Mass Start - Men</league>
+    <league id="7267" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic 15km Individual - Women</league>
+    <league id="7262" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic 20km Individual - Men</league>
+    <league id="7264" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic 12.5km Pursuit - Men</league>
+    <league id="7270" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic 12.5km Mass Start - Women</league>
+    <league id="7271" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic 4x6km Relay - Women</league>
+    <league id="7266" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic 4x7.5km Relay - Men</league>
+    <league id="7268" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic 7.5km Sprint - Women</league>
+    <league id="7272" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Mixed 4x6km/7.5km Relay - Mixed</league>
+    <league id="8063" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">10km Sprint Oslo - Men</league>
+    <league id="8079" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">10km Pursuit Oslo - Women</league>
+    <league id="8080" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">12.5km Pursuit Oslo - Men</league>
+    <league id="8093" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">12.5km Mass Start Oslo - Women</league>
+    <league id="8094" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">15km Mass Start Oslo - Men</league>
+    <league id="10785" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">15km Individual Oslo - Women</league>
+    <league id="10786" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">20km Individual Oslo - Men</league>
+    <league id="10787" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">4x6km Relay Oslo - Women</league>
+    <league id="10788" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">4x7.5km Relay Oslo - Men</league>
+    <league id="8064" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">7.5km Sprint Oslo - Women</league>
+    <league id="7948" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">7.5km Sprint Pokljuka - Women</league>
+    <league id="7949" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">10km Sprint Pokljuka - Men</league>
+    <league id="7991" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">10km Pursuit Pokljuka - Women</league>
+    <league id="7990" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">12.5km Pursuit Pokljuka - Men</league>
+    <league id="7996" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">12.5km Mass Start - Pokljuka - Women</league>
+    <league id="7995" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">15km Mass Start - Pokljuka - Men</league>
+    <league id="7440" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">10km Pursuit Ruhpolding - Women</league>
+    <league id="7439" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">12.5km Pursuit Ruhpolding - Men</league>
+    <league id="10541" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">12.5km Mass Start Ruhpolding - Women</league>
+    <league id="7429" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">15km Individual Ruhpolding - Women</league>
+    <league id="10542" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">15km Mass Start Ruhpolding - Men</league>
+    <league id="7437" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">20km Individual Ruhpolding - Men</league>
+    <league id="10539" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">7.5km Sprint Ruhpolding - Women</league>
+    <league id="7381" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">4x6km Relay Ruhpolding - Women</league>
+    <league id="10540" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">10km Sprint Ruhpolding - Men</league>
+    <league id="7380" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">4x7.5km Relay Ruhpolding - Men</league>
+    <league id="9943" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Cup Overall Matchups - Men</league>
+    <league id="9942" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Cup Overall Matchups - Women</league>
+  </leagues>
+</rsp>

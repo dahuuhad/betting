@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<rsp status="ok">
+  <sportId>31</sportId>
+  <leagues>
+    <league id="2698" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">British Open - Women</league>
+    <league id="2699" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">British Open - Men</league>
+    <league id="2700" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">French Open</league>
+    <league id="2701" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hong Kong Open - Men</league>
+    <league id="2702" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hong Kong Open - Women</league>
+    <league id="2703" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">BSPA Elite - Men</league>
+    <league id="2704" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Qatar Open - Women</league>
+    <league id="2705" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Qatar Open - Men</league>
+    <league id="2706" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Super Series</league>
+    <league id="2707" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Kuwait Open</league>
+    <league id="2708" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hi-Tec World Championships - Men</league>
+    <league id="2709" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hi-Tec World Championships - Women</league>
+    <league id="2710" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Tournament of Champions</league>
+    <league id="2711" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Irish Open</league>
+  </leagues>
+</rsp>

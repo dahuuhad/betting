@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<rsp status="ok">
+  <sportId>52</sportId>
+  <leagues>
+    <league id="7322" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Singles - Men</league>
+    <league id="7323" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Singles - Women</league>
+  </leagues>
+</rsp>

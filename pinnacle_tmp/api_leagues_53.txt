@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<rsp status="ok">
+  <sportId>53</sportId>
+  <leagues>
+    <league id="7326" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Halfpipe - Men</league>
+    <league id="7331" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Halfpipe - Women</league>
+    <league id="7325" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Parallel Giant Slalom - Men</league>
+    <league id="7324" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Parallel Slalom - Men</league>
+    <league id="7329" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Parallel Slalom - Women</league>
+    <league id="7328" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Snowboard Cross - Men</league>
+    <league id="7333" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Snowboard Cross - Women</league>
+    <league id="7327" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Slopestyle - Men</league>
+    <league id="7332" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Slopestyle - Women</league>
+    <league id="7330" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Parallel Giant Slalom - Women</league>
+  </leagues>
+</rsp>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<rsp status="ok">
+  <sportId>2</sportId>
+  <leagues>
+    <league id="182" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European Cup</league>
+    <league id="183" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Finland - Bandyliiga - Men</league>
+    <league id="187" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International Super Cup</league>
+    <league id="190" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Norway - Eliteserien - Men</league>
+    <league id="196" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Russia - Vysshaya Liga - Men</league>
+    <league id="204" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Sweden - Elitserien - Qualification - Men</league>
+    <league id="206" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Sweden - Elitserien - Men</league>
+    <league id="208" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Sweden - Eliteserien - Women</league>
+    <league id="4704" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Championship  B Division - Men</league>
+    <league id="209" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Championships - Men</league>
+    <league id="210" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Championships - Women</league>
+    <league id="211" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Exte World Cup - Men</league>
+    <league id="212" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World International Championships - Men</league>
+  </leagues>
+</rsp>

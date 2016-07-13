@@ -1,0 +1,689 @@
+<?xml version="1.0"?>
+<rsp status="ok">
+  <sportId>17</sportId>
+  <leagues>
+    <league id="7462" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Abu Dhabi HSBC Championship - 2nd Round</league>
+    <league id="7463" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Abu Dhabi HSBC Championship - 3rd Round</league>
+    <league id="7464" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Abu DHabi HSBC Championship - 4th Round</league>
+    <league id="7460" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Adu Dhabi HSBC Championship - Tournament Matchups</league>
+    <league id="7711" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Africa Open - 1st Round</league>
+    <league id="7712" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Africa Open - 2nd Round</league>
+    <league id="7713" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Africa Open - 3rd Round</league>
+    <league id="7714" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Africa Open - 4th Round</league>
+    <league id="7710" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Africa Open - Tournament Matchups</league>
+    <league id="8652" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Airbus LPGA Classic - Tournament Matchups</league>
+    <league id="6640" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Alfred Dunhill Links Championship - 1st Round</league>
+    <league id="6641" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Alfred Dunhill Links Championship - 2nd Round</league>
+    <league id="6642" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Alfred Dunhill Links Championship - 3rd Round</league>
+    <league id="6643" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Alfred Dunhill Links Championship - 4th Round</league>
+    <league id="6639" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Alfred Dunhill Links Championship - Tournament Mat</league>
+    <league id="7136" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Alfred Dunhill Championship - 1st Round</league>
+    <league id="7137" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Alfred Dunhill Championship - 2nd Round</league>
+    <league id="7138" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Alfred Dunhill Championship - 3rd Round</league>
+    <league id="7139" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Alfred Dunhill Championship - 4th Round</league>
+    <league id="7135" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Alfred Dunhill Championship - Tournament Matchups</league>
+    <league id="7652" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Allianz Championship - Tournament Matchups</league>
+    <league id="48030" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Ana Inspiration - Tournament Matchups</league>
+    <league id="8010" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Arnold Palmer Invitational - Playoffs</league>
+    <league id="8012" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Arnold Palmer Invitational - 1st Round</league>
+    <league id="8013" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Arnold Palmer Invitational - 2nd Round</league>
+    <league id="8014" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Arnold Palmer Invitational - 3rd Round</league>
+    <league id="8015" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Arnold Palmer Invitational - 4th Round</league>
+    <league id="8011" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Arnold Palmer Invitational - Tournament Matchups</league>
+    <league id="185674" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">AT&amp;T Byron Nelson - 1st Round</league>
+    <league id="185675" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">AT&amp;T Byron Nelson - 2nd Round</league>
+    <league id="185676" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">AT&amp;T Byron Nelson - 3rd Round</league>
+    <league id="185677" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">AT&amp;T Byron Nelson - 4th Round</league>
+    <league id="185673" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">AT&amp;T Byron Nelson - Tournament Matchups</league>
+    <league id="7640" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">AT&amp;T Pebble Beach National Pro-Am - Playoffs</league>
+    <league id="7642" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">AT&amp;T Pebble Beach National Pro-Am - 1st Round</league>
+    <league id="7643" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">AT&amp;T Pebble Beach National Pro-Am - 2nd Round</league>
+    <league id="7644" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">AT&amp;T Pebble Beach National Pro-Am - 3rd Round</league>
+    <league id="7645" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">AT&amp;T Pebble Beach National Pro-Am - 4th Round</league>
+    <league id="7641" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">AT&amp;T Pebble Beach National Pro-Am - Tourn.Matchups</league>
+    <league id="6773" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">AT and T Championship - Tournament Matchups</league>
+    <league id="10291" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australian Masters - Playoffs</league>
+    <league id="10292" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australian Masters - 1st Round</league>
+    <league id="10293" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australian Masters - 2nd Round</league>
+    <league id="10294" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australian Masters - 3rd Round</league>
+    <league id="10295" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australian Masters - 4th Round</league>
+    <league id="10290" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australian Masters - Tournament Matchups</league>
+    <league id="7147" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australian Open - Playoffs</league>
+    <league id="7148" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australian Open - 1st Round</league>
+    <league id="7149" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australian Open - 2nd Round</league>
+    <league id="7150" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australian Open - 3rd Round</league>
+    <league id="7151" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australian Open - 4th Round</league>
+    <league id="7146" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australian Open - Tournament Matchups</league>
+    <league id="6917" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australian PGA Championship - 1st Round</league>
+    <league id="6918" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australian PGA Championship - 2nd Round</league>
+    <league id="6919" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australian PGA Championship - 3rd Round</league>
+    <league id="6920" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australian PGA Championship - 4th Round</league>
+    <league id="6916" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australian PGA Championship - Tournament Matchups</league>
+    <league id="6980" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Australian PGA Talisker Masters - TM</league>
+    <league id="9388" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Barracuda Championship - Playoffs</league>
+    <league id="9389" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Barracuda Championship - 1st Round</league>
+    <league id="9390" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Barracuda Championship - 2nd Round</league>
+    <league id="9391" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Barracuda Championship - 3rd Round</league>
+    <league id="9392" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Barracuda Championship - 4th Round</league>
+    <league id="9387" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Barracuda Championship - Tournament Matchups</league>
+    <league id="10139" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Blue Bay LPGA - Tournament Matchups</league>
+    <league id="6581" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">BMW Championship - Playoffs</league>
+    <league id="6583" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">BMW PGA Championship - 1st Round</league>
+    <league id="6584" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">BMW PGA Championship - 2nd Round</league>
+    <league id="6585" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">BMW PGA Championship - 3rd Round</league>
+    <league id="6586" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">BMW PGA Championship - 4th Round</league>
+    <league id="6582" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">BMW PGA Championship - Tournament Matchups</league>
+    <league id="8995" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">BMW International Open - 1st Round</league>
+    <league id="8996" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">BMW International Open - 2nd Round</league>
+    <league id="8997" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">BMW International Open - 3rd Round</league>
+    <league id="8998" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">BMW International Open - 4th Round</league>
+    <league id="8994" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">BMW International Open - Tournament Matchups</league>
+    <league id="6769" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">BMW Masters - 1st Round</league>
+    <league id="6770" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">BMW Masters - 2nd Round</league>
+    <league id="6771" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">BMW Masters - 3rd Round</league>
+    <league id="6772" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">BMW Masters - 4th Round</league>
+    <league id="6768" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">BMW Masters - Tournament Matchups</league>
+    <league id="6537" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Boeing Classic - Tournament Matchups</league>
+    <league id="6472" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">PGA WGC Bridgestone Invitational</league>
+    <league id="6469" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">PGA Bridgestone Invitational - Playoff</league>
+    <league id="6465" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">PGA Bridgestone Invitational - 1st Round</league>
+    <league id="6466" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">PGA Bridgestone Invitational - 2nd Round</league>
+    <league id="6467" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">PGA Bridgestone Invitational - 3rd Round</league>
+    <league id="6468" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">PGA Bridgestone Invitational - 4th Round</league>
+    <league id="6462" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">PGA Bridgestone Invitational - Tournament Matchups</league>
+    <league id="6464" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">LPGA Womens British Open - Tournament Matchups</league>
+    <league id="9323" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">RBC Canadian Open - Playoffs</league>
+    <league id="9324" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">RBC Canadian Open - 1st Round</league>
+    <league id="9325" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">RBC Canadian Open - 2nd Round</league>
+    <league id="9326" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">RBC Canadian Open - 3rd Round</league>
+    <league id="9327" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">RBC Canadian Open - 4th Round</league>
+    <league id="9322" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">RBC Canadian Open - Tournament Matchups</league>
+    <league id="9525" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Canadian Pacific Women''s Open- Tournament Matchup</league>
+    <league id="6832" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Charles Schwab Cup Championship Tournament Matchup</league>
+    <league id="6763" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">CIMB Classic - Playoffs</league>
+    <league id="6764" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">CIMB Classic - 1st Round</league>
+    <league id="6765" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">CIMB Classic - 2nd Round</league>
+    <league id="6766" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">CIMB Classic - 3rd Round</league>
+    <league id="6767" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">CIMB Classic - 4th Round</league>
+    <league id="6762" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">CIMB Classic - Tournament Matchups</league>
+    <league id="10283" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">CME Group Tour Championship - Tournament Matchups</league>
+    <league id="7035" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">CME Group Titleholders - Tournament Matchups</league>
+    <league id="6538" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">CN Canadian Womens Open - Tournament Matchups</league>
+    <league id="10646" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Coates Golf Championship R1</league>
+    <league id="10647" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Coates Golf Championship R2</league>
+    <league id="10648" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Coates Golf Championship R3</league>
+    <league id="10649" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Coates Golf Championship R4</league>
+    <league id="10645" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Coates Golf Championship Tournament Matchups</league>
+    <league id="7539" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Commercialbank Qatar Masters - 1st Round</league>
+    <league id="7540" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Commercialbank Qatar Masters - 2nd Round</league>
+    <league id="7541" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Commercialbank Qatar Masters - 3rd Round</league>
+    <league id="7542" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Commercialbank Qatar Masters - 4th Round</league>
+    <league id="7538" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Commercialbank Qatar Masters - Tournament Matchups</league>
+    <league id="8988" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Constellation SENIOR PLAYERS Championship - T M</league>
+    <league id="8645" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Crowne Plaza Invitational - Playoffs</league>
+    <league id="8647" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Crowne Plaza Invitational - 1st Round</league>
+    <league id="8648" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Crowne Plaza Invitational - 2nd Round</league>
+    <league id="8649" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Crowne Plaza Invitational - 3rd Round</league>
+    <league id="8650" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Crowne Plaza Invitational - 4th Round</league>
+    <league id="8646" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Crowne Plaza Invitational - Tournament Matchups</league>
+    <league id="8990" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">CVS Caremark Charity Classic  - 1st Round</league>
+    <league id="8991" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">CVS Caremark Charity Classic  - 2nd Round</league>
+    <league id="8992" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">aremark Charity Classic  - 3rd Round</league>
+    <league id="8993" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">CVS Caremark Charity Classic  - 4th Round</league>
+    <league id="8989" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">CVS Caremark Charity Classic - Tournament Matchups</league>
+    <league id="9521" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Czech Masters – 1st Round</league>
+    <league id="9522" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Czech Masters – 2nd Round</league>
+    <league id="9523" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Czech Masters – 3rd Round</league>
+    <league id="9524" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Czech Masters – 4Th Round</league>
+    <league id="9520" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Czech Masters - Tournament Matchups</league>
+    <league id="6552" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Deutsche Bank Championship - Playoff</league>
+    <league id="6553" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Deutsche Bank Championship - 1st Round</league>
+    <league id="6554" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Deutsche Bank Championship - 2nd Round</league>
+    <league id="6555" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Deutsche Bank Championship - 3rd Round</league>
+    <league id="6556" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Deutsche Bank Championship - 4th Round</league>
+    <league id="6557" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Deutsche Bank Championship - Tournament Matchups</league>
+    <league id="6513" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Dicks Sporting Goods Open - Tournament Matchups</league>
+    <league id="6968" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">DP World Tour Championship - Playoffs</league>
+    <league id="6969" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">DP World Tour Championship - 1st Round</league>
+    <league id="6970" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">DP World Tour Championship - 2nd Round</league>
+    <league id="6971" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">DP World Tour Championship - 3rd Round</league>
+    <league id="6972" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">DP World Tour Championship - 4th Round</league>
+    <league id="6967" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">DP World Tour Championship - Tournament Matchups</league>
+    <league id="8985" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Encompass Championship - Tournament Matchups</league>
+    <league id="8121" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">EurAsia Cup - Day One Four Balls (Draw no Bet)</league>
+    <league id="8122" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">EurAsia Cup - Day 2 Foursomes (Draw no Bet)</league>
+    <league id="8123" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">EurAsia Cup - Day 3 Singles (Draw no Bet)</league>
+    <league id="8072" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Eurasia Cup - 1st Round</league>
+    <league id="8073" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Eurasia Cup - 2nd Round</league>
+    <league id="8074" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Eurasia Cup - 3rd Round</league>
+    <league id="8075" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Eurasia Cup - 4th Round</league>
+    <league id="8071" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Eurasia Cup - Tournament Matchups</league>
+    <league id="7548" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Farmers Insurance Open - Playoffs</league>
+    <league id="7544" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Farmers Insurance Open - 1st Round</league>
+    <league id="7545" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Farmers Insurance Open - 2nd Round</league>
+    <league id="7546" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Farmers Insurance Open - 3rd Round</league>
+    <league id="7547" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Farmers Insurance Open - 4th Round</league>
+    <league id="7543" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Farmers Insurance Open - Tournament Matchups</league>
+    <league id="8787" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">FedEx St. Jude Classic - Playoffs</league>
+    <league id="8789" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">FedEx St. Jude Classic - 1st Round</league>
+    <league id="8790" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">FedEx St. Jude Classic - 2nd Round</league>
+    <league id="8791" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">FedEx St. Jude Classic - 3rd Round</league>
+    <league id="8792" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">FedEx St. Jude Classic - 4th Round</league>
+    <league id="8788" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">FedEx St. Jude Classic - Tournament Matchups</league>
+    <league id="6644" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">First Tee Open - Tournament Matchups</league>
+    <league id="7215" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Shark Shootout - Playoffs</league>
+    <league id="7216" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Shark Shootout - 1st Round</league>
+    <league id="7217" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Shark Shootout -  2nd Round</league>
+    <league id="7218" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Shark Shootout - 3rd Round</league>
+    <league id="7219" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Shark Shootout - 4th Round</league>
+    <league id="7214" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Shark Shootout - Tournament Matchups</league>
+    <league id="6690" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Fryscom Open - Playoff</league>
+    <league id="6691" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Fryscom Open - 1st Round</league>
+    <league id="6692" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Fryscom Open - 2nd Round</league>
+    <league id="6693" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Fryscom Open - 3rd Round</league>
+    <league id="6694" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Fryscom Open - 4th Round</league>
+    <league id="6689" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Fryscom Open - Tournament Matchups</league>
+    <league id="8241" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Greater Gwinnett Championship - Tournament Matchup</league>
+    <league id="6731" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Greater Hickory Kia Classic - Tournament Matchups</league>
+    <league id="7589" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Handa New Zealand Womens Open -Tournament Matchups</league>
+    <league id="6732" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hanabank Championship - Tournament Matchups</league>
+    <league id="10854" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hero Indian Open - 1st Round</league>
+    <league id="10855" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hero Indian Open - 2nd Round</league>
+    <league id="10856" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hero Indian Open - 3rd Round</league>
+    <league id="10857" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hero Indian Open - 4th Round</league>
+    <league id="10853" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hero Indian Open - Tournament Matchup</league>
+    <league id="10368" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hero World Challenge - 1st Round</league>
+    <league id="10369" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hero World Challenge - 2nd Round</league>
+    <league id="10370" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hero World Challenge - 3rd Round</league>
+    <league id="10371" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hero World Challenge - 4th Round</league>
+    <league id="10367" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hero World Challenge - Tournament Matchups</league>
+    <league id="7186" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hong Kong Open - Round 1</league>
+    <league id="7187" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hong Kong Open - Round 2</league>
+    <league id="7188" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hong Kong Open - Round 3</league>
+    <league id="7189" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hong Kong Open - Round 4</league>
+    <league id="7185" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hong Kong Open - Tournament Matchups</league>
+    <league id="7800" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Honda LPGA Thailand - Tournament Matchups</league>
+    <league id="7835" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Honda Classic - Playoffs</league>
+    <league id="7836" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Honda Classic - 1st Round</league>
+    <league id="7837" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Honda Classic - 2nd Round</league>
+    <league id="7838" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Honda Classic - 3rd Round</league>
+    <league id="7839" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Honda Classic - 4th Round</league>
+    <league id="7834" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Honda Classic - Tournament Matchups</league>
+    <league id="8566" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">HP Byron Nelson Championship - Playoffs</league>
+    <league id="8568" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">HP Byron Nelson Championship - 1st Round</league>
+    <league id="8569" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">HP Byron Nelson Championship - 2nd Round</league>
+    <league id="8570" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">HP Byron Nelson Championship - 3rd Round</league>
+    <league id="8571" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">HP Byron Nelson Championship - 4th Round</league>
+    <league id="8567" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">HP Byron Nelson Championship - Tournament Matchups</league>
+    <league id="7833" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">HSBC Womens Champions - Tournament Matchups</league>
+    <league id="7465" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Humana Challenge - Playoffs</league>
+    <league id="7466" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Humana Challenge - 1st Round</league>
+    <league id="7467" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Humana Challenge - 2nd Round</league>
+    <league id="7468" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Humana Challenge - 3rd Round</league>
+    <league id="7469" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Humana Challenge - 4th Round</league>
+    <league id="7470" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Humana Challenge - Tournament Matchups</league>
+    <league id="7388" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hyundai Tournament of Champions - Round 1</league>
+    <league id="7389" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hyundai Tournament of Champions - Round 2</league>
+    <league id="7390" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hyundai Tournament of Champions - Round 3</league>
+    <league id="7391" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hyundai Tournament of Champions - Round 4</league>
+    <league id="7387" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Hyundai Tournament of Champions-Tounament Matchups</league>
+    <league id="8440" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Insperity Invitational - Tournament Matchups</league>
+    <league id="9334" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International Crown - Tournament Matchups</league>
+    <league id="8975" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Dubai Duty Free Irish Open - 1st Round</league>
+    <league id="8976" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Dubai Duty Free Irish Open - 2nd Round</league>
+    <league id="8977" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Dubai Duty Free Irish Open - 3rd Round</league>
+    <league id="8978" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Dubai Duty Free Irish Open - 4th Round</league>
+    <league id="8974" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Dubai Duty Free Irish Open - Tournament Matchups</league>
+    <league id="7721" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">ISPS Handa Womens Australian Open -Tourn. Matchups</league>
+    <league id="10141" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">ISPS Handa Perth International - 1st Round</league>
+    <league id="10142" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">ISPS Handa Perth International – 2nd Round</league>
+    <league id="10143" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">ISPS Handa Perth International – 3rd Round</league>
+    <league id="10144" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">ISPS Handa Perth International – 4th Round</league>
+    <league id="10140" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">ISPS Handa Perth International-Tournament Matchups</league>
+    <league id="7018" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">ISPS Handa World Cup og Golf - Tournament Matchups</league>
+    <league id="6558" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">ISPS Handa Wales Open - Playoff</league>
+    <league id="6559" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">ISPS Handa Wales Open - 1st Round</league>
+    <league id="6560" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">ISPS Handa Wales Open - 2nd Round</league>
+    <league id="6561" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">ISPS Handa Wales Open - 3rd Round</league>
+    <league id="6562" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">ISPS Handa Wales Open - 4th Round</league>
+    <league id="6563" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">ISPS Handa Wales Open - Tournament Matchups</league>
+    <league id="6603" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Italian Open - 1st Round</league>
+    <league id="6604" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Italian Open - 2nd Round</league>
+    <league id="6605" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Italian Open - 3rd Round</league>
+    <league id="6606" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Italian Open - 4th Round</league>
+    <league id="6602" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Italian Open - Tournament Matchups</league>
+    <league id="7635" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Joburg Open - 1st Round</league>
+    <league id="7636" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Joburg Open - 2nd Round</league>
+    <league id="7637" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Joburg Open - 3rd Round</league>
+    <league id="7638" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Joburg Open - 4th Round</league>
+    <league id="7639" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Joburg Open - Tournament Matchups</league>
+    <league id="9216" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">John Deere Classic - 1st Round</league>
+    <league id="9219" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">John Deere Classic - 2nd Round</league>
+    <league id="9217" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">John Deere Classic - 3th Round</league>
+    <league id="9218" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">John Deere Classic - 4th Round</league>
+    <league id="9215" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">John Deere Classic - Tournament Matchups</league>
+    <league id="6533" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Johnnie Walker Championship - 1st Round</league>
+    <league id="6534" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Johnnie Walker Championship - 2nd Round</league>
+    <league id="6535" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Johnnie Walker Championship - 3rd Round</league>
+    <league id="6536" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Johnnie Walker Championship - 4th Round</league>
+    <league id="6532" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Johnnie Walker Championship - Tournament Matchups</league>
+    <league id="10338" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Japan Golf Tour - Casio World Open TM</league>
+    <league id="10297" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Japan Golf Tour - Dunlop Phoenix Playoffs</league>
+    <league id="10298" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Japan Golf Tour - Dunlop Phoenix 1st Round</league>
+    <league id="10299" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Japan Golf Tour - Dunlop Phoenix 2nd Round</league>
+    <league id="10300" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Japan Golf Tour - Dunlop Phoenix 3rd Round</league>
+    <league id="10301" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Japan Golf Tour - Dunlop Phoenix 4th Round</league>
+    <league id="10296" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Japan Golf Tour-Dunlop Phoenix Tournament Matchups</league>
+    <league id="10358" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Japan Golf Tour - Nippon Series JT Cup TM</league>
+    <league id="8021" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">JTBC Founders Cup - Tournament Matchups</league>
+    <league id="8076" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Kia Classic - Tournament Matchups</league>
+    <league id="8578" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Kingsmill Championship - Tournament Matchups</league>
+    <league id="6588" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">KLM Open - 1st Round</league>
+    <league id="6589" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">KLM Open - 2nd Round</league>
+    <league id="6590" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">KLM Open - 3rd Round</league>
+    <league id="6591" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">KLM Open - 4th Round</league>
+    <league id="6587" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">KLM Open - Tournament Matchups</league>
+    <league id="187597" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">KPMG Women''s PGA Championship - TM</league>
+    <league id="8115" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Kraft Nabisco Championship - Tournament Matchups</league>
+    <league id="8803" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Legends of Golf - Tournament Matchups</league>
+    <league id="6979" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Lorena Ochoa Invitational - Tournament Matchups</league>
+    <league id="8242" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">LPGA Lotte Championship - Tournament Matchups</league>
+    <league id="8794" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Lyoness Open - 1st Round</league>
+    <league id="8795" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Lyoness Open - 2nd Round</league>
+    <league id="8796" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Lyoness Open - 3rd Round</league>
+    <league id="8797" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Lyoness Open - 4th Round</league>
+    <league id="8793" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Lyoness Open - Tournament Matchups</league>
+    <league id="8498" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Madeira Islands Open - 1st Round</league>
+    <league id="8499" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Madeira Islands Open - 2nd Round</league>
+    <league id="8500" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Madeira Islands Open - 3rd Round</league>
+    <league id="8501" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Madeira Islands Open - 4th Round</league>
+    <league id="8497" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Madeira Islands Open - Tournament Matchups</league>
+    <league id="9498" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Made in Denmark - 1st Round</league>
+    <league id="9499" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Made in Denmark - 2nd Round</league>
+    <league id="9500" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Made in Denmark - 3rd Round</league>
+    <league id="9501" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Made in Denmark - 4th Round</league>
+    <league id="9497" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Made in Denmark - Tournament Matchups</league>
+    <league id="8798" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Manulife Financial LPGA Classic - Tournament Match</league>
+    <league id="9260" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Marathon Classic - Tournament Matchups</league>
+    <league id="157005" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Mauritius Open - 1st Round</league>
+    <league id="156950" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Mauritius Open - 2nd Round</league>
+    <league id="156951" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Mauritius Open - 3rd Round</league>
+    <league id="156952" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Mauritius Open - 4th Round</league>
+    <league id="156948" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Mauritius Open - Tournament Matchups</league>
+    <league id="8235" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Maybank Malaysian Open - Playoffs</league>
+    <league id="8237" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Maybank Malaysian Open - 1st Round</league>
+    <league id="8238" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Maybank Malaysian Open - 2nd Round</league>
+    <league id="8239" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Maybank Malaysian Open - 3rd Round</league>
+    <league id="8240" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Maybank Malaysian Open - 4th Round</league>
+    <league id="8236" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Maybank Malaysian Open - Tournament Matchups</league>
+    <league id="9446" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Meijer LPGA Classic - Tournament Matchups</league>
+    <league id="8017" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Mississippi Gulf Resort Classic - 1st Round</league>
+    <league id="8018" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Mississippi Gulf Resort Classic - 2nd Round</league>
+    <league id="8019" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Mississippi Gulf Resort Classic - 3rd Round</league>
+    <league id="8020" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Mississippi Gulf Resort Classic - 4th Round</league>
+    <league id="8016" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Mississippi Gulf Resort - Tournament Matchups</league>
+    <league id="7471" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Mitsubishi Electric Champ. - Tournament Matchups</league>
+    <league id="6906" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Mizuno Classic - Tournament Matchups</league>
+    <league id="6577" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Montreal Championship - 1st Round</league>
+    <league id="6578" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Montreal Championship - 2nd Round</league>
+    <league id="6579" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Montreal Championship - 3rd Round</league>
+    <league id="6580" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Montreal Championship - 4th Round</league>
+    <league id="6576" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Montreal Championship - Tournament Matchups</league>
+    <league id="9926" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Nature Valley First Tee Open - Tournament Matchups</league>
+    <league id="7181" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Nedbank Golf Challenge - 1st Round</league>
+    <league id="7182" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Nedbank Golf Challenge - 2nd Round</league>
+    <league id="7183" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Nedbank Golf Challenge - 3rd Round</league>
+    <league id="7184" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Nedbank Golf Challenge - 4th Round</league>
+    <league id="7180" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Nedbank Golf Challenge - Tournament Matchups</league>
+    <league id="7221" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Nelson Mandela Championship - Playoffs</league>
+    <league id="7222" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Nelson Mandela Championship - 1st Round</league>
+    <league id="7223" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Nelson Mandela Championship - 2nd Round</league>
+    <league id="7224" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Nelson Mandela Championship - 3rd Round</league>
+    <league id="7225" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Nelson Mandela Championship - 4th Round</league>
+    <league id="7220" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Nelson Mandela Championship-Tournament Matchup</league>
+    <league id="8117" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">NH Collection Open - 1st Round</league>
+    <league id="8118" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">NH Collection Open - 2nd Round</league>
+    <league id="8119" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">NH Collection Open - 3rd Round</league>
+    <league id="8120" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">NH Collection Open - 4th Round</league>
+    <league id="8116" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">NH Collection Open - Tournament Matchups</league>
+    <league id="8441" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">North Texas LPGA Shootout - Tournament Matchups</league>
+    <league id="8683" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Nordea Masters - 1st Round</league>
+    <league id="8684" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Nordea Masters - 2nd Round</league>
+    <league id="8685" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Nordea Masters - 3rd Round</league>
+    <league id="8686" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Nordea Masters - 4th Round</league>
+    <league id="8682" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Nordea Masters - Tournament Matchups</league>
+    <league id="7715" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Northern Trust Open - Playoffs</league>
+    <league id="7717" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Northern Trust Open - 1st Round</league>
+    <league id="7718" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Northern Trust Open - 2nd Round</league>
+    <league id="7719" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Northern Trust Open - 3rd Round</league>
+    <league id="7720" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Northern Trust Open - 4th Round</league>
+    <league id="7716" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Northern Trust Open - Tournament Matchups</league>
+    <league id="7037" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">NSW Open - 1st Round</league>
+    <league id="7038" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">NSW Open - 2nd Round</league>
+    <league id="7039" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">NSW Open - 3rd Round</league>
+    <league id="7040" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">NSW Open - 4th Round</league>
+    <league id="7036" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">NSW Open - Tournament Matchups</league>
+    <league id="7141" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Northwestern Mutual World Challenge - Playoffs</league>
+    <league id="7142" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Northwestern Mutual World Challenge -1st Round</league>
+    <league id="7143" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Northwestern Mutual World Challenge - 2nd Round</league>
+    <league id="7144" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Northwestern Mutual World Challenge - 3rd Round</league>
+    <league id="7145" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Northwestern Mutual World Challenge - 4th Round</league>
+    <league id="7140" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Northwestern Mutual World Ch. - Tourn. Matchups</league>
+    <league id="6974" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">OHL Classic - Playoffs</league>
+    <league id="6975" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">OHL Classic - 1st Round</league>
+    <league id="6976" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">OHL Classic - 2nd Round</league>
+    <league id="6977" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">OHL Classic - 3rd Round</league>
+    <league id="6978" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">OHL Classic - 4th Round</league>
+    <league id="6973" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">OHL Classic - Tournament Matchups</league>
+    <league id="7575" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Omega Dubai Desert Classic - 1st Round</league>
+    <league id="7576" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Omega Dubai Desert Classic - 2nd Round</league>
+    <league id="7577" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Omega Dubai Desert Classic - 3rd Round</league>
+    <league id="7578" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Omega Dubai Desert Classic - 4th Round</league>
+    <league id="7579" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Omega Dubai Desert Classic - Tournament Matchups</league>
+    <league id="6572" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Omega European Masters - 1st Round</league>
+    <league id="6573" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Omega European Masters - 2nd Round</league>
+    <league id="6574" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Omega European Masters - 3rd Round</league>
+    <league id="6575" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Omega European Masters - 4th Round</league>
+    <league id="6571" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Omega European Masters - Tournament Matchups</league>
+    <league id="8573" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Open de Espana - 1st Round</league>
+    <league id="8574" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Open de Espana - 2nd Round</league>
+    <league id="8575" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Open de Espana - 3rd Round</league>
+    <league id="8576" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Open de Espana - 4th Round</league>
+    <league id="8572" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Open de Espana - Tournament Matchups</league>
+    <league id="6407" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Open De France - Playoffs</league>
+    <league id="6395" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Open De France - 1st Round</league>
+    <league id="6396" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Open De France - 2nd Round</league>
+    <league id="6405" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Open De France - 3rd Round</league>
+    <league id="6406" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Open De France - 4th Round</league>
+    <league id="6394" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Open De France - Tournament Matchups</league>
+    <league id="6613" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">PacificLinks Hawaii Championship - Tournament Ma</league>
+    <league id="6727" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Perth International - 1st Round</league>
+    <league id="6728" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Perth International - 2nd Round</league>
+    <league id="6729" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Perth International - 3rd Round</league>
+    <league id="6730" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Perth International - 4th Round</league>
+    <league id="6726" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Perth International - Tournament Matchups</league>
+    <league id="6485" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">PGA Championship - Playoff</league>
+    <league id="6481" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">PGA Championship - 1st Round</league>
+    <league id="6482" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">PGA Championship - 2nd Round</league>
+    <league id="6483" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">PGA Championship - 3rd Round</league>
+    <league id="6484" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">PGA Championship - 4th Round</league>
+    <league id="6480" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">PGA Championship - Tournament Matchups</league>
+    <league id="9594" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">LPGA Portland Classic - Tournament Machups</league>
+    <league id="6685" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Portugal Masters - 1st Round</league>
+    <league id="6686" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Portugal Masters - 2nd Round</league>
+    <league id="6687" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Portugal Masters - 3rd Round</league>
+    <league id="6688" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Portugal Masters - 4th Round</league>
+    <league id="6684" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Portugal Masters - Tournament Matchups</league>
+    <league id="6654" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Presidents Cup - Friday Foursomes (Draw no Bet)</league>
+    <league id="6655" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Presidents Cup - Saturday Four Balls (Draw no Bet)</league>
+    <league id="6656" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Presidents Cup - Saturday Foursomes (Draw no Bet)</league>
+    <league id="6657" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Presidents Cup - Sunday Singles (Draw no Bet)</league>
+    <league id="6653" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Presidents Cup - Thursday Four Balls (Draw no Bet)</league>
+    <league id="8687" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Principal Charity Classic - Tournament Matchups</league>
+    <league id="7874" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Puerto Rico Open - Playoffs</league>
+    <league id="7876" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Puerto Rico Open - 1st Round</league>
+    <league id="7877" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Puerto Rico Open - 2nd Round</league>
+    <league id="7878" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Puerto Rico Open - 3rd Round</league>
+    <league id="7879" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Puerto Rico Open - 4th Round</league>
+    <league id="7875" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Puerto Rico Open - Tournament Matchups</league>
+    <league id="7549" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Pure Silk Bahamas Classic - Tournament Matchups</league>
+    <league id="7026" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Champions Tour Q- School - 1st Round</league>
+    <league id="7027" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Champions Tour Q- School - 2nd Round</league>
+    <league id="7028" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Champions Tour Q- School - 3rd Round</league>
+    <league id="7029" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Champions Tour Q- School - 4th Round</league>
+    <league id="7025" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Champions Tour Q- School - Tournament Matchups</league>
+    <league id="9661" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Quebec Championship - Tournament Matchups</league>
+    <league id="9037" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Quicken Loans National - 1st Round</league>
+    <league id="9038" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Quicken Loans National - 2nd Round</league>
+    <league id="9039" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Quicken Loans National - 3rd Round</league>
+    <league id="9040" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Quicken Loans National - 4th Round</league>
+    <league id="9036" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Quicken Loans National - Tournament Matchups</league>
+    <league id="8229" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">RBC Heritage - Playoffs</league>
+    <league id="8231" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">RBC Heritage - 1st Round</league>
+    <league id="8232" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">RBC Heritage - 2nd Round</league>
+    <league id="8233" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">RBC Heritage - 3rd Round</league>
+    <league id="8234" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">RBC Heritage - 4th Round</league>
+    <league id="8230" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">RBC Heritage - Tournament Matchups</league>
+    <league id="8577" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Regions Tradition - Tournament Matchups</league>
+    <league id="6652" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Reignwood LPGA Classic - Tournament Matchups</league>
+    <league id="6473" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">PGA Reno-Tahoe Open - Tournament Matchups</league>
+    <league id="6470" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European Tour Reno Tahoe Open - 1st Round</league>
+    <league id="6471" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European Tour Reno Tahoe Open - 2nd Round</league>
+    <league id="6463" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European Tour Reno Tahoe Open -Tournament Matchups</league>
+    <league id="9329" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Russian Open - 1st Round</league>
+    <league id="9330" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Russian Open - 2nd Round</league>
+    <league id="9331" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Russian Open - 3rd Round</league>
+    <league id="9332" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Russian Open - 4th Round</league>
+    <league id="9328" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Russian Open - Tournament Matchups</league>
+    <league id="9929" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Ryder Cup - Day 1 Fourballs (Draw no Bet)</league>
+    <league id="9928" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Ryder Cup - Day 1 Foursomes (Draw no Bet)</league>
+    <league id="9931" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Ryder Cup - Day 2 Fourballs (Draw no Bet)</league>
+    <league id="9930" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Ryder Cup - Day 2 Foursomes (Draw no Bet)</league>
+    <league id="9932" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Ryder Cup - Day 3 Singles (Draw no Bet)</league>
+    <league id="6514" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Safeway Classic - Tournament Matchups</league>
+    <league id="10232" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Sanderson Farms Championship - 1st Round</league>
+    <league id="10233" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Sanderson Farms Championship - 2nd Round</league>
+    <league id="10234" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Sanderson Farms Championship - 3rd Round</league>
+    <league id="10235" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Sanderson Farms Championship - 4th Round</league>
+    <league id="10231" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Sanderson Farms Championship - Tournament Matchups</league>
+    <league id="6695" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">SAS Championship - Tournament Matchups</league>
+    <league id="9221" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Scottish Open - 1st Round</league>
+    <league id="9222" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Scottish Open - 2nd Round</league>
+    <league id="9223" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Scottish Open - 3rd Round</league>
+    <league id="9224" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Scottish Open - 4th Round</league>
+    <league id="9220" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Scottish Open - Tournament Matchups</league>
+    <league id="9225" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">US Senior Open Championship  -Tournament Matchups</league>
+    <league id="9333" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Senior Open Championship - Tournament Matchups</league>
+    <league id="8651" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Senior PGA Championship - Tournament Matchup</league>
+    <league id="6659" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Seve Trophy - Friday Four Balls (Draw No Bet)</league>
+    <league id="6661" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Seve Trophy - Saturday PM Foursomes (Draw No Bet)</league>
+    <league id="6660" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Seve Trophy - Saturday AM Foursomes (Draw No Bet)</league>
+    <league id="6662" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Seve Trophy - Sunday Singles (Draw No Bet)</league>
+    <league id="6658" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Seve Trophy - Thursday Four Balls (Draw No Bet)</league>
+    <league id="6564" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Shaw Charity Classic - Tournament Matchups</league>
+    <league id="8109" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Shell Houston Open - Playoffs</league>
+    <league id="8111" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Shell Houston Open - 1st Round</league>
+    <league id="8112" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Shell Houston Open - 2nd Round</league>
+    <league id="8113" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Shell Houston Open - 3rd Round</league>
+    <league id="8114" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Shell Houston Open - 4th Round</league>
+    <league id="8110" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Shell Houston Open - Tournament Matchups</league>
+    <league id="88147" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Shenzhen International - 1st Round</league>
+    <league id="88148" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Shenzhen International - 2nd Round</league>
+    <league id="88149" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Shenzhen International - 3rd Round</league>
+    <league id="88150" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Shenzhen International - 4th Round</league>
+    <league id="88146" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Shenzhen International - Tournament Matchups</league>
+    <league id="8688" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">ShopRite LPGA Classic  -Tournament Matchups</league>
+    <league id="6721" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Shriners Hospitals For Children Open-Playoffs</league>
+    <league id="6722" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Shriners Hospitals For Children Open - 1st Round</league>
+    <league id="6723" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Shriners Hospitals For Children Open - 2nd Round</league>
+    <league id="6724" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Shriners Hospitals For Children Open - 3rd Round</league>
+    <league id="6725" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Shriners Hospitals Children Open - 4th Round</league>
+    <league id="6720" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Shriners Hospitals for Children Open-Tourn. MUps</league>
+    <league id="6696" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Sime Darby LPGA Malaysia - Tournament Matchups</league>
+    <league id="7421" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Sony Open - Playoffs</league>
+    <league id="7422" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Sony Open - 1st Round</league>
+    <league id="7423" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Sony Open - 2nd Round</league>
+    <league id="7424" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Sony Open - 3rd Round</league>
+    <league id="7425" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Sony Open - 4th Round</league>
+    <league id="7420" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Sony Open - Tournament Matchups</league>
+    <league id="8300" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Swinging Skirts LPGA Classic - Tournament Matchups</league>
+    <league id="7031" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">South African Open Championship - 1st Round</league>
+    <league id="7032" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">South African Championship - 2nd Round</league>
+    <league id="7033" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">South African Open Championship - 3rd Round</league>
+    <league id="7034" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">South African Open Championship - 4th Round</league>
+    <league id="7030" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">South African Open Championship-Tournament Matchup</league>
+    <league id="6774" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Taiwan Championship - Tournament Matchups</league>
+    <league id="10401" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Thailand Golf Championship - Playoffs</league>
+    <league id="10397" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Thailand Golf Championship - 1st Round</league>
+    <league id="10398" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Thailand Golf Championship - 2nd Round</league>
+    <league id="10399" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Thailand Golf Championship - 3rd Round</league>
+    <league id="10400" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Thailand Golf Championship - 4th Round</league>
+    <league id="10396" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Thailand Golf Championship - Tournament Matchups</league>
+    <league id="6527" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Barclays - Playoff</league>
+    <league id="6528" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Barclays - 1st Round</league>
+    <league id="6529" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Barclays - 2nd Round</league>
+    <league id="6530" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Barclays - 3rd Round</league>
+    <league id="6531" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Barclays - 4th Round</league>
+    <league id="6526" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Barclays - Tournament Matchups</league>
+    <league id="8435" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Championship - 1st Round</league>
+    <league id="8436" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Championship - 2nd Round</league>
+    <league id="8437" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Championship - 3rd Round</league>
+    <league id="8438" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Championship - 4th Round</league>
+    <league id="8434" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Championship - Tournament Matchups</league>
+    <league id="6592" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Evian Championship - Tournament Matchups</league>
+    <league id="8219" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Masters - Tournament Matchups</league>
+    <league id="8507" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Players Championship Playoffs</league>
+    <league id="8503" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Players Championship - 1st Round</league>
+    <league id="8504" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Players Championship - 2nd Round</league>
+    <league id="8505" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Players Championship - 3rd Round</league>
+    <league id="8506" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Players Championship -  4th Round</league>
+    <league id="8502" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Players Championship - Tournament Matchups</league>
+    <league id="9092" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Greenbrier Classic - 1st Round</league>
+    <league id="9093" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Greenbrier Classic - 2nd Round</league>
+    <league id="9094" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Greenbrier Classic - 3rd Round</league>
+    <league id="9095" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Greenbrier Classic - 4th Round</league>
+    <league id="6397" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Greenbrier Classic - Tournament Matchups</league>
+    <league id="8220" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Masters Tournament - 1st Round</league>
+    <league id="8221" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Masters Tournament - 2nd Round</league>
+    <league id="8222" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Masters Tournament - 3rd Round</league>
+    <league id="8223" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Masters Tournament - 4th Round</league>
+    <league id="6896" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The McGladrey Classic - Playoffs</league>
+    <league id="6897" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The McGladrey Classic - 1st Round</league>
+    <league id="6898" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The McGladrey Classic - 2nd Round</league>
+    <league id="6899" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The McGladrey Classic - 3rd Round</league>
+    <league id="6900" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The McGladrey Classic - 4th Round</league>
+    <league id="6895" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The McGladrey Classic - Tournament Matchups</league>
+    <league id="8676" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Memorial Tournament - Playoffs</league>
+    <league id="8678" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Memorial Tournament - 1st Round</league>
+    <league id="8679" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Memorial Tournament - 2nd Round</league>
+    <league id="8680" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Memorial Tournament - 3rd Round</league>
+    <league id="8681" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Memorial Tournament - 4th Round</league>
+    <league id="8677" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Memorial Tournament - Tournament Matchups</league>
+    <league id="9256" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Open Championship - 1st Round</league>
+    <league id="9257" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Open Championship - 2nd Round</league>
+    <league id="9258" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Open Championship - 3rd Round</league>
+    <league id="9259" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Open Championship - 4th Round</league>
+    <league id="9255" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">The Open Championship - Tournament Matchups</league>
+    <league id="7908" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Toshiba Classic - Tournament Matchups</league>
+    <league id="6607" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">TOUR Championship - Playoff</league>
+    <league id="6609" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">TOUR Championship - 1st Round</league>
+    <league id="6610" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">TOUR Championship - 2nd Round</league>
+    <league id="6611" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">TOUR Championship - 3rd Round</league>
+    <league id="6612" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">TOUR Championship - 4th Round</league>
+    <league id="6608" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">TOUR Championship - Tournament Matchups</league>
+    <league id="8980" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Travelers Championship - Playoffs</league>
+    <league id="8981" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Travelers Championship - 1st Round</league>
+    <league id="8982" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Travelers Championship - 2nd Round</league>
+    <league id="8983" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Travelers Championship - 3rd Round</league>
+    <league id="8984" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Travelers Championship - 4th Round</league>
+    <league id="8979" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Travelers Championship - Tournament Matchups</league>
+    <league id="7898" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Trophee Hassan II - 1st Round</league>
+    <league id="7899" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Trophee Hassan II - 2nd Round</league>
+    <league id="7900" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Trophee Hassan II - 3rd Round</league>
+    <league id="7901" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Trophee Hassan II - 4th Round</league>
+    <league id="7897" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Trophee Hassan II - Tournament Matchups</league>
+    <league id="10800" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">True Thailand Classic - R1</league>
+    <league id="10801" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">True Thailand Classic - R2</league>
+    <league id="10802" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">True Thailand Classic - R3</league>
+    <league id="10803" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">True Thailand Classic - R4</league>
+    <league id="10799" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">True Thailand Classic - Tournament Matchups</league>
+    <league id="7841" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Tshwane Open - 1st Round</league>
+    <league id="7842" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Tshwane Open - 2nd Round</league>
+    <league id="7843" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Tshwane Open - 3rd Round</league>
+    <league id="7844" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Tshwane Open - 4th Round</league>
+    <league id="7840" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Tshwane Open - Tournament Matchups</league>
+    <league id="22562" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Champions Tour  Tucson Conquistadores - TM</league>
+    <league id="6902" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Turkish Airlines Open - 1st Round</league>
+    <league id="6903" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Turkish Airlines Open - 2nd Round</league>
+    <league id="6904" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Turkish Airlines Open - 3rd Round</league>
+    <league id="6905" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Turkish Airlines Open - 4th Round</league>
+    <league id="6901" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Turkish Airlines Open - Tournament Matchups</league>
+    <league id="8903" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">US Open - Playoffs</league>
+    <league id="8899" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">US Open - 1st Round</league>
+    <league id="8900" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">US Open - 2nd Round</league>
+    <league id="8901" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">US Open - 3rd Round</league>
+    <league id="8902" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">US Open - 4th Round</league>
+    <league id="8898" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">US Open - Tournament Matchups</league>
+    <league id="8986" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">US Womens Championship - Tournament Matchups</league>
+    <league id="8066" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Valero Texas Open - Tournament Matchups</league>
+    <league id="8065" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Valero Texas Open - Playoffs</league>
+    <league id="8067" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Valero Texas Open - 1st Round</league>
+    <league id="8068" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Valero Texas Open - 2nd Round</league>
+    <league id="8069" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Valero Texas Open - 3rd Round</league>
+    <league id="8070" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Valero Texas Open - 4th Round</league>
+    <league id="7902" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Valspar Championship - Playoffs</league>
+    <league id="7904" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Valspar Championship - 1st Round</league>
+    <league id="7905" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Valspar Championship - 2nd Round</league>
+    <league id="7906" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Valspar Championship - 3rd Round</league>
+    <league id="7907" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Valspar Championship - 4th Round</league>
+    <league id="7903" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Valspar Championship - Tournament Matchups</league>
+    <league id="8296" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Volvo China Open - 1st Round</league>
+    <league id="8297" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Volvo China Open - 2nd Round</league>
+    <league id="8298" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Volvo China Open - 3rd Round</league>
+    <league id="8299" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Volvo China Open - 4th Round</league>
+    <league id="8295" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Volvo China Open - Tournament Matchups</league>
+    <league id="7416" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Volvo Golf Champions - 1st Round</league>
+    <league id="7417" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Volvo Golf Champions - 2nd Round</league>
+    <league id="7418" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Volvo Golf Champions - 3rd Round</league>
+    <league id="7419" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Volvo Golf Champions - 4th Round</league>
+    <league id="7415" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Volvo Golf Champions - Tournament Matchups</league>
+    <league id="8419" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Wells Fargo Championship - Playoffs</league>
+    <league id="8439" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Wells Fargo Championship - 1st Round</league>
+    <league id="8421" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Wells Fargo Championship - 2nd Round</league>
+    <league id="8422" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Wells Fargo Championship - 3rd Round</league>
+    <league id="8423" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Wells Fargo Championship - 4th Round</league>
+    <league id="8420" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Wells Fargo Championship - Tournament Matchups</league>
+    <league id="8999" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">NW Arkansas Championship-Tournament Matchups</league>
+    <league id="7580" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Waste Management Phoenix Open - Playoffs</league>
+    <league id="7582" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Waste Management Phoenix Open - 1st Round</league>
+    <league id="7583" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Waste Management Phoenix Open - 2nd Round</league>
+    <league id="7584" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Waste Management Phoenix Open - 3rd Round</league>
+    <league id="7585" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Waste Management Phoenix Open - 4th Round</league>
+    <league id="7581" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Waste Management Phoenix Open -Tournament Matchupa</league>
+    <league id="9502" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Wegmans LPGA Championship - Tournament Matchups</league>
+    <league id="7881" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">WGC - Cadillac Championship - 1st Round</league>
+    <league id="7882" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">WGC - Cadillac Championship - 2nd Round</league>
+    <league id="7883" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">WGC - Cadillac Championship - 3rd Round</league>
+    <league id="7884" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">WGC - Cadillac Championship - 4th Round</league>
+    <league id="7880" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">WGC - Cadillac Championship - Tournament Matchups</league>
+    <league id="137001" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">WGC Cadillac Match Play - Consolation</league>
+    <league id="136967" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">WGC Cadillac Match Play - Final</league>
+    <league id="136899" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">WGC Cadillac Match Play - Quarterfinals</league>
+    <league id="130813" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">WGC Cadillac Match Play - 1st Round</league>
+    <league id="136913" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">WGC Cadillac Match Play - Round of 16</league>
+    <league id="130814" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">WGC Cadillac Match Play - 2nd Round</league>
+    <league id="130815" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">WGC Cadillac Match Play - 3rd Round</league>
+    <league id="130816" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">WGC Cadillac Match Play - 4th Round</league>
+    <league id="136926" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">WGC Cadillac Match Play - Semi Finals</league>
+    <league id="6833" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">WGC HSBC Champions - Playoffs</league>
+    <league id="6828" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">WGC HSBC Champions - 1st Round</league>
+    <league id="6829" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">WGC HSBC Champions - 2nd Round</league>
+    <league id="6830" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">WGC HSBC Champions - 3rd Round</league>
+    <league id="6831" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">WGC HSBC Champions - 4th Round</league>
+    <league id="6827" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">WGC HSBC Champions - Tournament Matchups</league>
+    <league id="10091" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Volvo World Matchplay - Consolation</league>
+    <league id="10090" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Volvo World Matchplay - Final</league>
+    <league id="10087" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Volvo World Matchplay - Group Stage (Draw no Bet)</league>
+    <league id="10088" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Volvo World Matchplay - QF</league>
+    <league id="10089" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Volvo World Matchplay - SF</league>
+    <league id="7020" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Cup of Golf - Playoffs</league>
+    <league id="7021" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Cup of Golf - 1st Round</league>
+    <league id="7022" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Cup of Golf - 2nd Round</league>
+    <league id="7023" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Cup of Golf - 3rd Round</league>
+    <league id="7024" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Cup of Golf - 4th Round</league>
+    <league id="7019" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World Cup of Golf - Tournament Matchups</league>
+    <league id="6512" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Wyndham Championship - Playoff</league>
+    <league id="6508" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Wyndham Championship - 1st Round</league>
+    <league id="6509" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Wyndham Championship - 2nd Round</league>
+    <league id="6510" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Wyndham Championship - 3rd Round</league>
+    <league id="6511" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Wyndham Championship - 4th Round</league>
+    <league id="6507" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Wyndham Championship - Tournament Matchups</league>
+    <league id="9829" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Yokohama Tire LPGA Classic - Tournament Matchups</league>
+    <league id="8289" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Zurich Classic - Playoffs</league>
+    <league id="8291" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Zurich Classic - 1st Round</league>
+    <league id="8292" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Zurich Classic - 2nd Round</league>
+    <league id="8293" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Zurich Classic - 3rd Round</league>
+    <league id="8294" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Zurich Classic - 4th Round</league>
+    <league id="8290" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Zurich Classic - Tournament Matchups</league>
+  </leagues>
+</rsp>

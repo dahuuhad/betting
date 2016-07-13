@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<rsp status="ok">
+  <sportId>18</sportId>
+  <leagues>
+    <league id="5325" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">African - Championship Men</league>
+    <league id="5326" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">African - Championship Women</league>
+    <league id="4619" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Asian Games - Women</league>
+    <league id="4618" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Asian Games - Men</league>
+    <league id="961" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Austria - OHB Cup Men</league>
+    <league id="962" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Austria - HLA  - Men</league>
+    <league id="975" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Croatia - Muski Cup -  Men</league>
+    <league id="981" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Czech Republic - Cup Men</league>
+    <league id="982" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Czech Republic -  Extraliga -  Men</league>
+    <league id="5096" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Denmark - Haandboldligaen Men</league>
+    <league id="5101" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Denmark - Haandboldligaen Women</league>
+    <league id="9561" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Denmark - Super Cup Men</league>
+    <league id="9562" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Denmark - Super Cup Women</league>
+    <league id="1013" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - Champions Trophy Men</league>
+    <league id="1016" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European Challenge Cup -  Men</league>
+    <league id="1017" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European - Champions League Women</league>
+    <league id="1020" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - Championship Men</league>
+    <league id="1021" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European - Champions League Men</league>
+    <league id="4452" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - Club Friendlies - Men</league>
+    <league id="5100" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European - Cup Winners Cup Men</league>
+    <league id="5450" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European - Cup Winners Cup Men</league>
+    <league id="1030" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European Cup Winners Cup  -  Women</league>
+    <league id="1035" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European EHF Cup  -  Women</league>
+    <league id="6165" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - EHF Cup Men</league>
+    <league id="7697" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - EHF Cup - Women</league>
+    <league id="1042" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International - Friendlies Men</league>
+    <league id="1044" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International Friendlies  - Women</league>
+    <league id="1046" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">International Handball League -  Women</league>
+    <league id="5208" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - Super Cup Men</league>
+    <league id="1055" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European Challenge Cup - Women</league>
+    <league id="5117" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - Champions League Qualification Women</league>
+    <league id="4630" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - Championship Women</league>
+    <league id="5094" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - Champions League Qualification Men</league>
+    <league id="4453" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - Champions League Qualification Men</league>
+    <league id="4454" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - Champions League Qualification Women</league>
+    <league id="1059" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - U19 Championship Women</league>
+    <league id="5891" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - Champions League Qualifications Men</league>
+    <league id="1061" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - Championship Qualification Men</league>
+    <league id="1063" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - Open Men</league>
+    <league id="5242" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - Super Cup Men</league>
+    <league id="5191" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Europe - Championship Qualification Women</league>
+    <league id="1065" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European Championship - Qualification  -  Men</league>
+    <league id="4379" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Sparkassen Handballcup - Men</league>
+    <league id="1069" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">European - U19 Championship Women</league>
+    <league id="4891" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">France - Coupe de France Men</league>
+    <league id="4892" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">France - Coupe de France Women</league>
+    <league id="1079" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">France - Coupe de la Ligue - Men</league>
+    <league id="1080" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">France - Division 1 Men</league>
+    <league id="1084" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">France - Division 1 -  Women</league>
+    <league id="1092" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Germany - DHB Pokal -  Men</league>
+    <league id="1094" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Germany - DHB Pokal  - Women</league>
+    <league id="1096" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Germany - Supercup -  Men</league>
+    <league id="1103" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Germany - Bundesliga 2 Men</league>
+    <league id="1104" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Germany - All Star Game</league>
+    <league id="1105" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Germany - Bundesliga Men</league>
+    <league id="1106" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Germany - Bundesliga Women</league>
+    <league id="1108" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Germany - Supercup Women</league>
+    <league id="1110" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Greece A1 -  Men</league>
+    <league id="1113" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Greece - Cup Men</league>
+    <league id="1133" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Norway - NM Cup -  Men</league>
+    <league id="5098" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Norway - Postenligaen Women</league>
+    <league id="1142" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Norway - NM Cup Women</league>
+    <league id="1143" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Norway - Division 1 Women</league>
+    <league id="5773" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Handball Matches - Men</league>
+    <league id="5774" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Handball Matches - Women</league>
+    <league id="5465" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Qualification - Men</league>
+    <league id="5624" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Olympic Qualification - Women</league>
+    <league id="1153" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Poland - AllStar Game Men</league>
+    <league id="1154" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Poland Cup - Women</league>
+    <league id="4477" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Poland - PGNiG Superliga - Men</league>
+    <league id="4478" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Poland - PGNiG Superliga - Women</league>
+    <league id="1159" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Polish Cup - Men</league>
+    <league id="1162" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Portugal - Campeonato Nacional - Men</league>
+    <league id="1163" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Taca de Portugal -  Men</league>
+    <league id="1164" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Portugal - Liga Profissional Men</league>
+    <league id="1180" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Russia - Super League -  Men</league>
+    <league id="1182" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Russia - Super League  - Women</league>
+    <league id="1186" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slovenia - 1. A RL  -  Men</league>
+    <league id="1190" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Slovakia - Extraliga -  Men</league>
+    <league id="1194" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Spain - Division de Honor ABF Women</league>
+    <league id="1195" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Spain - Copa Asobal Men</league>
+    <league id="1198" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Spain - Division de Honor B Men</league>
+    <league id="1201" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Spain - Liga Asobal Men</league>
+    <league id="5118" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Spain - Supercopa Men</league>
+    <league id="1205" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Spain - Copa del Rey - Men</league>
+    <league id="1207" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Sweden - Allsvenskan -  Men</league>
+    <league id="5095" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Sweden - Elitserien Men</league>
+    <league id="1217" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Sweden - Elitserien Women</league>
+    <league id="1227" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Switzerland - SHL -  Men</league>
+    <league id="1229" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Switzerland - Cup Men</league>
+    <league id="5142" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - GF Cup Women</league>
+    <league id="5244" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - International Friendlies Men</league>
+    <league id="1239" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World International Friendlies - Men</league>
+    <league id="5099" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - Championship Qualification Men</league>
+    <league id="1248" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - Championship Qualification Women</league>
+    <league id="1250" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - Championships Men</league>
+    <league id="1251" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">World Championships -  Women</league>
+    <league id="1253" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - GF Cup Women</league>
+    <league id="1254" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - U19 Championship Men</league>
+    <league id="1255" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - U19 Championship Women</league>
+    <league id="1256" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - U21 Championship Men</league>
+    <league id="1257" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">World - U21 Championship Women</league>
+  </leagues>
+</rsp>

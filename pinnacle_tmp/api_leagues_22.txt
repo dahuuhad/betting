@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rsp status="ok">
+  <sportId>22</sportId>
+  <leagues>
+    <league id="1619" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Bellator</league>
+    <league id="6231" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Glory 5</league>
+    <league id="1620" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Moosin - MMA</league>
+    <league id="4588" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Nemesis Figthing</league>
+    <league id="4924" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Score Fighting Series</league>
+    <league id="4491" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Shark Fights</league>
+    <league id="1623" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">Strikeforce</league>
+    <league id="7817" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">TFC</league>
+    <league id="9494" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">Titan</league>
+    <league id="1624" homeTeamType="Team1" feedContents="1" allowRoundRobins="1">UFC</league>
+    <league id="1631" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">WEC</league>
+    <league id="6057" homeTeamType="Team1" feedContents="0" allowRoundRobins="1">World Series Of Fighting</league>
+  </leagues>
+</rsp>

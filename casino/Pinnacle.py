@@ -158,5 +158,4 @@ class Pinnacle(Casino):
         return sports
 
     def _get_league_ids(self, sport_name, league_names):
-        # Todo
         pass

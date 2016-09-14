@@ -1,11 +1,17 @@
-from strategy.Strategy import Strategy
-import utils
 import logging
+
+import utils
+from strategy.Strategy import Strategy
+
 
 class UnderdogBaseball(Strategy):
 
-    def __init__(self):
-        self._fixtures = []
+    def __init__(self, *args, **kwargs):
+        super(UnderdogBaseball, self).__init__(*args, **kwargs)
+
+        self._sport = "Baseball"
+        self._leagues = ["MLB"]
+
 
     def add_fixture(self, fixture, moneyline):
         away_odd = utils.convert_decimal_to_american(moneyline.get('away'))

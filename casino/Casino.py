@@ -1,7 +1,5 @@
-import tabulate
-
 class Casino(object):
-    def __init__(self, use_cache=True, odds_format=""):
+    def __init__(self, use_cache=True, odds_format="DECIMAL"):
         self._name = "Casino"
         self._use_cache = use_cache
         self._odds_format = odds_format

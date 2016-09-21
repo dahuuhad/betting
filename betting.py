@@ -1,7 +1,9 @@
 import logging
+import time
 
 from casino.Pinnacle import Pinnacle
-from data.Spreadsheet import Spreadsheet
+from casino.Simulation import Simulation
+from data.DataStore import DataStore
 from strategy.OddEven import OddEven
 from strategy.UnderdogBaseball import UnderdogBaseball
 
@@ -13,8 +15,14 @@ def print_help():
 
 
 def setup_logging():
-    logging.basicConfig( format='%(asctime)s %(message)s', level=logging.INFO)
+    logging.basicConfig( format='%(asctime)s %(levelname)s (%(threadName)-20s) %(module)s::%(funcName)s (%(lineno)d) - %(message)s', level=logging.DEBUG)
 
+
+def hello():
+    logging.info("Hello")
+
+def world():
+    logging.info("World")
 
 def main():
     """
@@ -24,16 +32,27 @@ def main():
 
     setup_logging()
 
-    spreadsheet = Spreadsheet()
+    logging.debug("Setup the datastore")
+    datastore = DataStore()
 
-    casinos = [Pinnacle(use_cache = True, odds_format = "DECIMAL")]
-    underdog_baseball_strategy =  UnderdogBaseball(spreadsheet, casinos)
-    underdog_baseball_strategy.start()
+    logging.debug("Adding casinos")
+    casinos = []
+    pinnacle = Pinnacle(use_cache = True, odds_format = "DECIMAL")
+    simulation = Simulation()
+    casinos.append(simulation)
 
-    oddeven_strategy = OddEven(spreadsheet, casinos)
-    oddeven_strategy.start()
+    try:
+        strategies = []
+        sleep = 10
+        strategies.append(UnderdogBaseball(datastore, casinos, sleep=sleep))
+        strategies.append(OddEven(datastore, casinos, sleep=sleep))
 
-
+        logging.debug("Running the strategies")
+        for strategy in strategies:
+            strategy.start()
+            time.sleep(2)
+    except KeyboardInterrupt:
+        logging.info("User aborted, exiting...")
     return 0
 
 

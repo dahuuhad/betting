@@ -8,7 +8,7 @@ class UnderdogBaseball(Strategy):
 
     def __init__(self, *args, **kwargs):
         super(UnderdogBaseball, self).__init__(*args, **kwargs)
-
+        self.name = "UnderdogBaseball"
         self._sport = "Baseball"
         self._leagues = ["MLB"]
 

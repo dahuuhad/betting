@@ -1,10 +1,11 @@
 import base64
+import json
+import logging
 import os
 import urllib2
 import urlparse
-import json
 import xml.etree.ElementTree as ET
-from pprint import pprint
+
 from casino.Casino import Casino
 
 
@@ -34,7 +35,7 @@ class Pinnacle(Casino):
         file_path = os.path.join(self._tmp_dir, file_name)
         url = urlparse.urljoin(self._base_url, url_param)
         if not use_cache or not os.path.isfile(file_path):
-            print "Calling %s" % url
+            logging.info("Calling %s" % url)
             request = urllib2.Request(url, headers=self._headers)
             response_data = urllib2.urlopen(request).read()
             with open(file_path, 'w') as out_file:

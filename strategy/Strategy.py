@@ -1,22 +1,37 @@
 import json
 import logging
+import threading
+import time
 from collections import namedtuple
 
-class Strategy(object):
+import feedparser
 
-    def __init__(self, datastore, casinos, start_deposit=1000, ):
+
+class Strategy(threading.Thread):
+
+    def __init__(self, datastore, casinos, start_deposit=1000, sleep=60):
+        super(Strategy, self).__init__(group=None, target=None, name=None)
         self._datastore = datastore
-        self._balance = start_deposit
+        self._balance = start_deposit 
         self._fixtures = []
         self._casinos = casinos
         self._leagues = None
         self._is_live = False
+        self._sleep = sleep
 
-    def start(self):
+    def run(self):
         # type: () -> object
-        self.get_fixtures()
+        while True:
+            try:
+                logging.debug("Getting fixtures")
+                self.get_fixtures()
+            except NoFixturesFound:
+                logging.error("No fixtures found")
+                logging.debug("Sleeping for some time")
+                time.sleep(self._sleep)
 
     def get_fixtures(self):
+        logging.debug("Inside get_fixtures")
         last = 0
         for casino in self._casinos:
             # name, balance = casino.print_casino_info()
@@ -24,6 +39,8 @@ class Strategy(object):
             # print tabulate(leagues)
             last, fixtures = casino.get_fixtures(self._sport, self._leagues, since=last, is_live=self._is_live)
             leagues = fixtures.get('league')
+            if not leagues:
+                raise NoFixturesFound("")
             possible_fixtures = {}
             for league in leagues:
                 league_id = league.get('id')
@@ -53,3 +70,16 @@ class Strategy(object):
 
     def add_fixture(self, fixture, moneyline):
         raise NotImplementedError
+
+class NoFixturesFound(Exception):
+    pass
+
+class Sharps():
+    def __init__(self, feed_id):
+        self._username = "dahuuhad"
+        self._password = "secret"
+        self._feed = "http://www.sharps.se/spreadsheet/rss/%s.rss" % feed_id
+        d = feedparser.parse(self._feed)
+        for entry in d.entries:
+            logging.info(entry.summary_detail.value)
+

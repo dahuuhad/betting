@@ -1,5 +1,6 @@
 import json
 import logging
+import pprint
 import threading
 import time
 from collections import namedtuple
@@ -16,8 +17,10 @@ class Strategy(threading.Thread):
         self._fixtures = []
         self._casinos = casinos
         self._leagues = None
-        self._is_live = False
+        self._is_live = True
         self._sleep = sleep
+
+
 
     def run(self):
         # type: () -> object
@@ -25,6 +28,7 @@ class Strategy(threading.Thread):
             try:
                 logging.debug("Getting fixtures")
                 self.get_fixtures()
+                time.sleep(self._sleep)
             except NoFixturesFound:
                 logging.error("No fixtures found")
                 logging.debug("Sleeping for some time")
@@ -34,10 +38,14 @@ class Strategy(threading.Thread):
         logging.debug("Inside get_fixtures")
         last = 0
         for casino in self._casinos:
-            # name, balance = casino.print_casino_info()
-            # leagues = casino.get_leagues(sport)
-            # print tabulate(leagues)
+            logging.debug("Getting fixtures for %s" % self._casinos)
+            #name, balance = casino.print_casino_info()
+            #leagues = casino.get_leagues(sport)
+            #print tabulate(leagues)
             last, fixtures = casino.get_fixtures(self._sport, self._leagues, since=last, is_live=self._is_live)
+            if not fixtures:
+                logging.debug("No fixtures found")
+                continue
             leagues = fixtures.get('league')
             if not leagues:
                 raise NoFixturesFound("")
@@ -50,10 +58,11 @@ class Strategy(threading.Thread):
                     data = json.dumps(event)
                     fixture = json.loads(data, object_hook=lambda d: namedtuple('Fixture', d.keys())(*d.values()))
                     possible_fixtures[fixture.id] = fixture
-                    # print tabulate(events, headers='keys', tablefmt='rst')
-            last = 0
-            odds = casino.get_odds(self._sport, self._leagues, since=last, is_live=self._is_live)
-            last = odds.get('last')
+                    #print tabulate(events, headers='keys', tablefmt='rst')
+
+            last, odds = casino.get_odds(self._sport, self._leagues, since=last, is_live=self._is_live)
+            logging.debug(type(odds))
+            pprint.pprint(odds)
 
             leagues = odds.get('leagues')
             for league in leagues:
@@ -66,7 +75,7 @@ class Strategy(threading.Thread):
                         if moneyline:
                             self.add_fixture(fixture, moneyline)
 
-                            # print tabulate(event, headers='keys', tablefmt='rst')
+                            #print tabulate(event, headers='keys', tablefmt='rst')
 
     def add_fixture(self, fixture, moneyline):
         raise NotImplementedError

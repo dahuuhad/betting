@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<rsp status="ok">
-  <sportId>11</sportId>
-  <leagues>
-    <league id="750" homeTeamType="Team1" feedContents="0" allowRoundRobins="0">BDO World Championships (Legs)</league>
-  </leagues>
-</rsp>

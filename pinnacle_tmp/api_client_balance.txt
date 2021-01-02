@@ -1,1 +1,0 @@
-{"availableBalance":0.01,"outstandingTransactions":0.0,"givenCredit":0.0,"currency":"SEK"}

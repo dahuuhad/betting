@@ -2,9 +2,10 @@ import base64
 import json
 import logging
 import os
+import xml.etree.ElementTree as ET
+
 import urllib2
 import urlparse
-import xml.etree.ElementTree as ET
 
 from casino.Casino import Casino
 
@@ -15,7 +16,7 @@ class Pinnacle(Casino):
         self._name = "Pinnacle"
         self._user_id = 'DH487342'
         self._password = '2eE22$k&^G'
-        self._base_url = "https://api.pinnaclesports.com/v1/"
+        self._base_url = "https://api.pinnaclesports.com/"
         self._currency_code = "SEK"
         base_64_str = "Basic " + base64.b64encode(
             '{}:{}'.format(self._user_id, self._password).encode('utf-8')).decode('ascii')
@@ -42,10 +43,10 @@ class Pinnacle(Casino):
                 out_file.write(response_data)
         return file_path
 
-    def get_leagues(self, sport_name):
+    def get_leagues(self, sport_name, version="v2"):
         sport_id = self._get_sport_id(sport_name)
         file_name = 'api_leagues_%s.xml' % sport_id
-        url_param = 'leagues?sportid=%s' % sport_id
+        url_param = '%s/leagues?sportid=%s' % (version, sport_id)
         file_path = self._call(url_param, file_name, self._use_cache)
         doc = ET.parse(file_path)
         leagues = []
@@ -75,7 +76,10 @@ class Pinnacle(Casino):
 
     def __load_json_data(self, file_path):
         with open(file_path) as data_file:
-            return json.load(data_file)
+            try:
+                return json.load(data_file)
+            except ValueError, ex:
+                logging.error(ex)
         return None
 
     def get_fixtures(self, sport_name, league_names=[], since=None, is_live=False):
@@ -84,8 +88,10 @@ class Pinnacle(Casino):
         file_name = 'api_fixtures_%s_%s_%s_%s.json' % (sport_id, league_ids_str, since, is_live)
         url_param = self.__build_url('fixtures?', sport_id, league_names, league_ids_str, since, is_live)
         file_path = self._call(url_param, file_name, False)
-
+        logging.debug("File path %s" % file_path)
         fixtures = self.__load_json_data(file_path)
+        if not fixtures:
+            return 0, None
         last = fixtures.get('last')
         leagues = fixtures.get('league')
         for league in leagues:
@@ -111,9 +117,12 @@ class Pinnacle(Casino):
         file_name = 'api_odds_%s_%s_%s_%s.json' % (sport_id, league_ids_str, since, is_live)
         url_param = self.__build_url('odds?', sport_id, league_names, league_ids_str, since, is_live, self._odds_format)
         file_path = self._call(url_param, file_name, self._use_cache)
-
+        logging.debug("File path %s" % (file_path))
         odds = self.__load_json_data(file_path)
-        return odds
+        if not odds:
+            return 0, None
+        last = odds.get('last')
+        return last, odds
 
 
     def get_bets(self, bet_ids):
@@ -148,9 +157,9 @@ class Pinnacle(Casino):
         return None
 
     @property
-    def get_sports(self):
+    def get_sports(self, version="v2"):
         file_name = 'api_sports.xml'
-        url_param = 'sports'
+        url_param = '%s/sports' % version
         file_path = self._call(url_param, file_name, self._use_cache)
         doc = ET.parse(file_path)
         sports = []
